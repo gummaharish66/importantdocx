@@ -1,0 +1,99 @@
+[root@localhost ~]# df -hT
+Filesystem     Type      Size  Used Avail Use% Mounted on
+devtmpfs       devtmpfs  878M     0  878M   0% /dev
+tmpfs          tmpfs     896M     0  896M   0% /dev/shm
+tmpfs          tmpfs     896M  9.5M  886M   2% /run
+tmpfs          tmpfs     896M     0  896M   0% /sys/fs/cgroup
+/dev/nvme0n1p3 xfs        98G  5.4G   93G   6% /
+/dev/nvme0n1p1 xfs       295M  191M  104M  65% /boot
+tmpfs          tmpfs     180M   20K  180M   1% /run/user/0
+/dev/sr0       iso9660    11G   11G     0 100% /run/media/root/RHEL-8-5-0-BaseOS-x86_64
+[root@localhost ~]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+No repositories available
+[root@localhost ~]# 
+[root@localhost ~]# 
+[root@localhost ~]# mkdir /mnt/disk1
+[root@localhost ~]# tail -l /etc/mstab
+tail: cannot open '/etc/mstab' for reading: No such file or directory
+[root@localhost ~]# tail -1 /etc/mtab
+/dev/sr0 /run/media/root/RHEL-8-5-0-BaseOS-x86_64 iso9660 ro,nosuid,nodev,relatime,nojoliet,check=s,map=n,blocksize=2048,uid=0,gid=0,dmode=500,fmode=400 0 0
+[root@localhost ~]# echo "/dev/sr0 /mnt/disk1 iso9660 defaults 0 0" >>/etc/fstab
+[root@localhost ~]# mount -a
+mount: /mnt/disk1: WARNING: device write-protected, mounted read-only.
+[root@localhost ~]# vim /etc/yum.repos.d/rhel.repo
+[root@localhost ~]# 
+[root@localhost ~]# 
+[root@localhost ~]# 
+[root@localhost ~]# yum clean all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+0 files removed
+[root@localhost ~]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+repo id                             repo name                            status
+AppStream                           AppStream                            enabled
+BaseOS                              BaseOS                               enabled
+[root@localhost ~]# 
+[root@localhost ~]# 
+[root@localhost ~]# yum repolist 
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+repo id                                 repo name
+AppStream                               AppStream
+BaseOS                                  BaseOS
+[root@localhost ~]# yum update -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+AppStream                                       155 MB/s | 7.2 MB     00:00    
+BaseOS                                          112 MB/s | 2.4 MB     00:00    
+Dependencies resolved.
+Nothing to do.
+Complete!
+[root@localhost ~]# cd /etc/yum.repos.d
+[root@localhost yum.repos.d]# ll
+total 8
+-rw-r--r--. 1 root root 358 Jun  2 03:25 redhat.repo
+-rw-r--r--. 1 root root 162 Jun  2 03:33 rhel.repo
+[root@localhost yum.repos.d]# cat redhat.repo 
+#
+# Certificate-Based Repositories
+# Managed by (rhsm) subscription-manager
+#
+# *** This file is auto-generated.  Changes made here will be over-written. ***
+# *** Use "subscription-manager repo-override --help" if you wish to make changes. ***
+#
+# If this file is empty and this system is subscribed consider
+# a "yum repolist" to refresh available repos
+#
+[root@localhost yum.repos.d]# cat rhel.repo
+[AppStream]
+name=AppStream
+baseurl=file:///mnt/disk1/AppStream/
+gpgcheck=0
+enabled=1
+
+[BaseOS]
+name=BaseOS
+baseurl=file:///mnt/disk1/BaseOS/
+gpgcheck=0
+enabled=1
+[root@localhost yum.repos.d]# 
+
