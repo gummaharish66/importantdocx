@@ -1,0 +1,995 @@
+login as: root
+root@192.168.1.30's password:
+Activate the web console with: systemctl enable --now cockpit.socket
+
+Register this system with Red Hat Insights: insights-client --register
+Create an account or view all your systems at https://red.ht/insights-dashboard
+Last login: Tue Nov  8 19:57:10 2022
+[root@localhost ~]# lsblk
+NAME          MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda             8:0    0   20G  0 disk
+├─sda1          8:1    0    1G  0 part /boot
+└─sda2          8:2    0   19G  0 part
+  ├─rhel-root 253:0    0   17G  0 lvm  /
+  └─rhel-swap 253:1    0    2G  0 lvm  [SWAP]
+sr0            11:0    1 10.7G  0 rom  /run/media/root/RHEL-8-6-0-BaseOS-x86_64
+[root@localhost ~]# cd /mnt
+[root@localhost mnt]# ls
+[root@localhost mnt]# cd
+[root@localhost ~]# cd /run/media/root/RHEL-8-6-0-BaseOS-x86_64
+[root@localhost RHEL-8-6-0-BaseOS-x86_64]# ls
+AppStream  BaseOS  EFI  EULA  extra_files.json  GPL  images  isolinux  media.repo  RPM-GPG-KEY-redhat-beta  RPM-GPG-KEY-redhat-release  TRANS.TBL
+[root@localhost RHEL-8-6-0-BaseOS-x86_64]# cd
+[root@localhost ~]# pwd
+/root
+[root@localhost ~]# mkdir local_repo
+[root@localhost ~]# cd /run/media/root/RHEL-8-6-0-BaseOS-x86_64
+[root@localhost RHEL-8-6-0-BaseOS-x86_64]# cp -R AppStream/ BaseOS/ /root/local_repo/
+[root@localhost RHEL-8-6-0-BaseOS-x86_64]# cd
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# cd /etc/yum.repos.d/
+[root@localhost yum.repos.d]# ls
+[root@localhost yum.repos.d]#
+[root@localhost yum.repos.d]#
+[root@localhost yum.repos.d]#
+[root@localhost yum.repos.d]# cd
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# ls
+anaconda-ks.cfg  Desktop  Documents  Downloads  initial-setup-ks.cfg  local_repo  Music  Pictures  Public  Templates  Videos
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# cd local_repo/
+[root@localhost local_repo]# ls
+AppStream  BaseOS
+[root@localhost local_repo]#
+[root@localhost local_repo]#
+[root@localhost local_repo]#
+[root@localhost local_repo]# cd
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# vim /etc/yum.repos.d/local_dvd.repo
+[root@localhost ~]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+repo id                                                                        repo name
+AppStream                                                                      AppStream
+BaseOS                                                                         BaseOS
+[root@localhost ~]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscription-manager to register.
+
+repo id                                                                    repo name                                                                  status
+AppStream                                                                  AppStream                                                                  enabled
+BaseOS                                                                     BaseOS                                                                     enabled
+[root@localhost ~]# yum createrepo yum-utils -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+No such command: createrepo. Please use /usr/bin/yum --help
+It could be a YUM plugin command, try: "yum install 'dnf-command(createrepo)'"
+[root@localhost ~]# dnf createrepo yum-utils -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+No such command: createrepo. Please use /usr/bin/dnf --help
+It could be a DNF plugin command, try: "dnf install 'dnf-command(createrepo)'"
+[root@localhost ~]# yum install createrepo yum-utils -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+AppStream                                        81 MB/s | 7.5 MB     00:00
+BaseOS                                           71 MB/s | 2.4 MB     00:00
+Last metadata expiration check: 0:00:01 ago on Tue 08 Nov 2022 08:19:22 PM IST.
+Dependencies resolved.
+================================================================================
+ Package                 Architecture Version             Repository       Size
+================================================================================
+Installing:
+ createrepo_c            x86_64       0.17.7-5.el8        AppStream        89 k
+ yum-utils               noarch       4.0.21-11.el8       BaseOS           73 k
+Installing dependencies:
+ createrepo_c-libs       x86_64       0.17.7-5.el8        AppStream       116 k
+ drpm                    x86_64       0.4.1-3.el8         AppStream        68 k
+
+Transaction Summary
+================================================================================
+Install  4 Packages
+
+Total size: 347 k
+Installed size: 602 k
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : drpm-0.4.1-3.el8.x86_64                                1/4
+  Installing       : createrepo_c-libs-0.17.7-5.el8.x86_64                  2/4
+  Installing       : createrepo_c-0.17.7-5.el8.x86_64                       3/4
+  Installing       : yum-utils-4.0.21-11.el8.noarch                         4/4
+  Running scriptlet: yum-utils-4.0.21-11.el8.noarch                         4/4
+  Verifying        : createrepo_c-0.17.7-5.el8.x86_64                       1/4
+  Verifying        : createrepo_c-libs-0.17.7-5.el8.x86_64                  2/4
+  Verifying        : drpm-0.4.1-3.el8.x86_64                                3/4
+  Verifying        : yum-utils-4.0.21-11.el8.noarch                         4/4
+Installed products updated.
+
+Installed:
+  createrepo_c-0.17.7-5.el8.x86_64     createrepo_c-libs-0.17.7-5.el8.x86_64
+  drpm-0.4.1-3.el8.x86_64              yum-utils-4.0.21-11.el8.noarch
+
+Complete!
+[root@localhost ~]# createrepo /root/local_repo/
+Directory walk started
+Directory walk done - 8323 packages
+Temporary output repo path: /root/local_repo/.repodata/
+Preparing sqlite DBs
+Pool started (with 5 workers)
+Pool finished
+[root@localhost ~]# yum clean all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+13 files removed
+[root@localhost ~]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                                 repo name
+AppStream                               AppStream
+BaseOS                                  BaseOS
+[root@localhost ~]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                             repo name                            status
+AppStream                           AppStream                            enabled
+BaseOS                              BaseOS                               enabled
+[root@localhost ~]# ls -ld /root/local_repo/repodata/
+drwxr-xr-x. 2 root root 4096 Nov  8 20:21 /root/local_repo/repodata/
+[root@localhost ~]# ls  /root/local_repo/repodata/
+14cef80ce03a464f43f169a4a8656d9a6412b19397fea49e1717c9703819f256-other.xml.gz
+232b1fb4d5d583a0c2b707b5fc0ff622637dc4f3c384a7bbeb9051f1b3fa35b0-filelists.xml.g                                                                             z
+39d25d4f909eda95315e1a2b8a3c1545e72a58933b191b001ab679afafbcafc0-other.sqlite.bz                                                                             2
+6759d4e9c15b53b69d42dc57afb95494fd9577b82917f281aed4c955e910554d-primary.xml.gz
+c673383b7c9dd53ada41acb3921cae26c89378054235f54122b41a351b3479d1-modules.yaml.gz
+d6232b4e222a1c2ca74d9f3453d717a3ac8c5c8046e4b32463667f9675d09705-filelists.sqlit                                                                             e.bz2
+e2b39c951636b080b6d1f2eb3181a16dafe39ef4989cce7f270ef23cda279ed3-primary.sqlite.                                                                             bz2
+repomd.xml
+[root@localhost ~]# vim /etc/yum/pluginconf.d/subscription-manager.conf
+[root@localhost ~]# cat /etc/yum/pluginconf.d/subscription-manager.conf
+[main]
+enabled=0
+
+# When following option is set to 1, then all repositories defined outside redha                                                                             t.repo will be disabled
+# every time subscription-manager plugin is triggered by dnf or yum
+disable_system_repos=0
+[root@localhost ~]# yum install httpd -y
+AppStream                                        45 MB/s | 7.5 MB     00:00
+BaseOS                                           37 MB/s | 2.4 MB     00:00
+Last metadata expiration check: 0:00:03 ago on Tue 08 Nov 2022 08:31:33 PM IST.
+Dependencies resolved.
+================================================================================
+ Package       Arch   Version                                   Repo       Size
+================================================================================
+Installing:
+ httpd         x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream 1.4 M
+Installing dependencies:
+ apr           x86_64 1.6.3-12.el8                              AppStream 130 k
+ apr-util      x86_64 1.6.1-6.el8                               AppStream 105 k
+ httpd-filesystem
+               noarch 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream  41 k
+ httpd-tools   x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream 108 k
+ mod_http2     x86_64 1.15.7-5.module+el8.6.0+13996+01710940    AppStream 155 k
+ redhat-logos-httpd
+               noarch 84.5-1.el8                                BaseOS     29 k
+Installing weak dependencies:
+ apr-util-bdb  x86_64 1.6.1-6.el8                               AppStream  25 k
+ apr-util-openssl
+               x86_64 1.6.1-6.el8                               AppStream  27 k
+Enabling module streams:
+ httpd                2.4
+
+Transaction Summary
+================================================================================
+Install  9 Packages
+
+Total size: 2.0 M
+Installed size: 5.4 M
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : apr-1.6.3-12.el8.x86_64                                1/9
+  Running scriptlet: apr-1.6.3-12.el8.x86_64                                1/9
+  Installing       : apr-util-bdb-1.6.1-6.el8.x86_64                        2/9
+  Installing       : apr-util-openssl-1.6.1-6.el8.x86_64                    3/9
+  Installing       : apr-util-1.6.1-6.el8.x86_64                            4/9
+  Running scriptlet: apr-util-1.6.1-6.el8.x86_64                            4/9
+  Installing       : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   5/9
+  Installing       : redhat-logos-httpd-84.5-1.el8.noarch                   6/9
+  Running scriptlet: httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Installing       : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Running scriptlet: httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Verifying        : apr-1.6.3-12.el8.x86_64                                1/9
+  Verifying        : apr-util-1.6.1-6.el8.x86_64                            2/9
+  Verifying        : apr-util-bdb-1.6.1-6.el8.x86_64                        3/9
+  Verifying        : apr-util-openssl-1.6.1-6.el8.x86_64                    4/9
+  Verifying        : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   5/9
+  Verifying        : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   6/9
+  Verifying        : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   7/9
+  Verifying        : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Verifying        : redhat-logos-httpd-84.5-1.el8.noarch                   9/9
+Installed products updated.
+
+Installed:
+  apr-1.6.3-12.el8.x86_64
+  apr-util-1.6.1-6.el8.x86_64
+  apr-util-bdb-1.6.1-6.el8.x86_64
+  apr-util-openssl-1.6.1-6.el8.x86_64
+  httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  httpd-filesystem-2.4.37-47.module+el8.6.0+14529+083145da.1.noarch
+  httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86_64
+  redhat-logos-httpd-84.5-1.el8.noarch
+
+Complete!
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; disabled; vendor pres>
+   Active: inactive (dead)
+     Docs: man:httpd.service(8)
+[root@localhost ~]# systemctl enable httpd.service
+Created symlink /etc/systemd/system/multi-user.target.wants/httpd.service → /usr                                                                             /lib/systemd/system/httpd.service.
+[root@localhost ~]# systemctl start httpd.service
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; enabled; vendor prese>
+   Active: active (running) since Tue 2022-11-08 20:32:50 IST; 13s ago
+     Docs: man:httpd.service(8)
+ Main PID: 33775 (httpd)
+   Status: "Running, listening on: port 80"
+    Tasks: 213 (limit: 11222)
+   Memory: 21.6M
+   CGroup: /system.slice/httpd.service
+           ├─33775 /usr/sbin/httpd -DFOREGROUND
+           ├─33776 /usr/sbin/httpd -DFOREGROUND
+           ├─33777 /usr/sbin/httpd -DFOREGROUND
+           ├─33778 /usr/sbin/httpd -DFOREGROUND
+           └─33779 /usr/sbin/httpd -DFOREGROUND
+
+Nov 08 20:32:50 localhost.localdomain systemd[1]: Starting The Apache HTTP Serv>
+Nov 08 20:32:50 localhost.localdomain httpd[33775]: AH00558: httpd: Could not r>
+Nov 08 20:32:50 localhost.localdomain systemd[1]: Started The Apache HTTP Serve>
+Nov 08 20:32:50 localhost.localdomain httpd[33775]: Server configured, listenin>
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# firewall-cmd --list
+usage: see firewall-cmd man page
+firewall-cmd: error: ambiguous option: --list could match --list-all-zones, --li                                                                             st-all-policies, --list-lockdown-whitelist-commands, --list-lockdown-whitelist-c                                                                             ontexts, --list-lockdown-whitelist-uids, --list-lockdown-whitelist-users, --list                                                                             -interfaces, --list-sources, --list-ingress-zones, --list-egress-zones, --list-r                                                                             ich-rules, --list-services, --list-ports, --list-protocols, --list-icmp-blocks,                                                                              --list-forward-ports, --list-source-ports, --list-all
+[root@localhost ~]# firewall-cmd --list-all
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+[root@localhost ~]# firewall-cmd --list-all-zone
+block
+  target: %%REJECT%%
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services:
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+dmz
+  target: default
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+drop
+  target: DROP
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services:
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+external
+  target: default
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: yes
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+home
+  target: default
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: cockpit dhcpv6-client mdns samba-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+internal
+  target: default
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: cockpit dhcpv6-client mdns samba-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+libvirt (active)
+  target: ACCEPT
+  icmp-block-inversion: no
+  interfaces: virbr0
+  sources:
+  services: dhcp dhcpv6 dns ssh tftp
+  ports:
+  protocols: icmp ipv6-icmp
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+        rule priority="32767" reject
+
+nm-shared
+  target: ACCEPT
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: dhcp dns ssh
+  ports:
+  protocols: icmp ipv6-icmp
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+        rule priority="32767" reject
+
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+trusted
+  target: ACCEPT
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services:
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+work
+  target: default
+  icmp-block-inversion: no
+  interfaces:
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+
+[root@localhost ~]# firewall-cmd --list-all-public
+usage: see firewall-cmd man page
+firewall-cmd: error: unrecognized arguments: --list-all-public
+[root@localhost ~]# firewall-cmd --list-all --zone=public
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+[root@localhost ~]# firewall-cmd --list-all
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+[root@localhost ~]# firewall-cmd --permanent --add-service=http
+success
+[root@localhost ~]# firewall-cmd --permanent --add-service=https
+success
+[root@localhost ~]# firewall-cmd --reload
+success
+[root@localhost ~]# firewall-cmd --list-all
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client http https ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# vim /etc/httpd/conf/httpd.conf
+[root@localhost ~]# systemctl status firewalld.service
+● firewalld.service - firewalld - dynamic firewall daemon
+   Loaded: loaded (/usr/lib/systemd/system/firewalld.service; enabled; vendor p>
+   Active: active (running) since Tue 2022-11-08 19:54:54 IST; 48min ago
+     Docs: man:firewalld(1)
+ Main PID: 897 (firewalld)
+    Tasks: 3 (limit: 11222)
+   Memory: 32.3M
+   CGroup: /system.slice/firewalld.service
+           └─897 /usr/libexec/platform-python -s /usr/sbin/firewalld --nofork ->
+
+Nov 08 19:54:52 localhost.localdomain systemd[1]: Starting firewalld - dynamic >
+Nov 08 19:54:54 localhost.localdomain systemd[1]: Started firewalld - dynamic f>
+Nov 08 19:54:54 localhost.localdomain firewalld[897]: WARNING: AllowZoneDriftin>
+Nov 08 20:37:45 localhost.localdomain firewalld[897]: WARNING: AllowZoneDriftin>
+[root@localhost ~]# vim /etc/httpd/conf/httpd.conf
+[root@localhost ~]# vim /etc/httpd/conf/httpd.conf
+[root@localhost ~]# cat /etc/httpd/conf/httpd.conf
+#
+# This is the main Apache HTTP server configuration file.  It contains the
+# configuration directives that give the server its instructions.
+# See <URL:http://httpd.apache.org/docs/2.4/> for detailed information.
+# In particular, see
+# <URL:http://httpd.apache.org/docs/2.4/mod/directives.html>
+# for a discussion of each configuration directive.
+#
+# See the httpd.conf(5) man page for more information on this configuration,
+# and httpd.service(8) on using and configuring the httpd service.
+#
+# Do NOT simply read the instructions in here without understanding
+# what they do.  They're here only as hints or reminders.  If you are unsure
+# consult the online docs. You have been warned.
+#
+# Configuration and logfile names: If the filenames you specify for many
+# of the server's control files begin with "/" (or "drive:/" for Win32), the
+# server will use that explicit path.  If the filenames do *not* begin
+# with "/", the value of ServerRoot is prepended -- so 'log/access_log'
+# with ServerRoot set to '/www' will be interpreted by the
+# server as '/www/log/access_log', where as '/log/access_log' will be
+# interpreted as '/log/access_log'.
+
+#
+# ServerRoot: The top of the directory tree under which the server's
+# configuration, error, and log files are kept.
+#
+# Do not add a slash at the end of the directory path.  If you point
+# ServerRoot at a non-local disk, be sure to specify a local disk on the
+# Mutex directive, if file-based mutexes are used.  If you wish to share the
+# same ServerRoot for multiple httpd daemons, you will need to change at
+# least PidFile.
+#
+ServerRoot "/etc/httpd"
+
+#
+# Listen: Allows you to bind Apache to specific IP addresses and/or
+# ports, instead of the default. See also the <VirtualHost>
+# directive.
+#
+# Change this to Listen on specific IP addresses as shown below to
+# prevent Apache from glomming onto all bound IP addresses.
+#
+#Listen 12.34.56.78:80
+Listen 80
+
+#
+# Dynamic Shared Object (DSO) Support
+#
+# To be able to use the functionality of a module which was built as a DSO you
+# have to place corresponding `LoadModule' lines at this location so the
+# directives contained in it are actually available _before_ they are used.
+# Statically compiled modules (those listed by `httpd -l') do not need
+# to be loaded here.
+#
+# Example:
+# LoadModule foo_module modules/mod_foo.so
+#
+Include conf.modules.d/*.conf
+
+#
+# If you wish httpd to run as a different user or group, you must run
+# httpd as root initially and it will switch.
+#
+# User/Group: The name (or #number) of the user/group to run httpd as.
+# It is usually good practice to create a dedicated user and group for
+# running httpd, as with most system services.
+#
+User apache
+Group apache
+
+# 'Main' server configuration
+#
+# The directives in this section set up the values used by the 'main'
+# server, which responds to any requests that aren't handled by a
+# <VirtualHost> definition.  These values also provide defaults for
+# any <VirtualHost> containers you may define later in the file.
+#
+# All of these directives may appear inside <VirtualHost> containers,
+# in which case these default settings will be overridden for the
+# virtual host being defined.
+#
+
+#
+# ServerAdmin: Your address, where problems with the server should be
+# e-mailed.  This address appears on some server-generated pages, such
+# as error documents.  e.g. admin@your-domain.com
+#
+ServerAdmin root@localhost
+
+#
+# ServerName gives the name and port that the server uses to identify itself.
+# This can often be determined automatically, but we recommend you specify
+# it explicitly to prevent problems during startup.
+#
+# If your host doesn't have a registered DNS name, enter its IP address here.
+#
+#ServerName www.example.com:80
+
+#
+# Deny access to the entirety of your server's filesystem. You must
+# explicitly permit access to web content directories in other
+# <Directory> blocks below.
+#
+<Directory "/root/local_repo">
+    Options ALL Indexes FollowSymLinks
+    AllowOverride none
+    Require all granted
+</Directory>
+
+#
+# Note that from this point forward you must specifically allow
+# particular features to be enabled - so if something's not working as
+# you might expect, make sure that you have specifically enabled it
+# below.
+#
+
+#
+# DocumentRoot: The directory out of which you will serve your
+# documents. By default, all requests are taken from this directory, but
+# symbolic links and aliases may be used to point to other locations.
+#
+DocumentRoot "/var/www/html"
+
+#
+# Relax access to content within /var/www.
+#
+<Directory "/var/www">
+    AllowOverride None
+    # Allow open access:
+    Require all granted
+</Directory>
+
+# Further relax access to the default document root:
+<Directory "/var/www/html">
+    #
+    # Possible values for the Options directive are "None", "All",
+    # or any combination of:
+    #   Indexes Includes FollowSymLinks SymLinksifOwnerMatch ExecCGI MultiViews
+    #
+    # Note that "MultiViews" must be named *explicitly* --- "Options All"
+    # doesn't give it to you.
+    #
+    # The Options directive is both complicated and important.  Please see
+    # http://httpd.apache.org/docs/2.4/mod/core.html#options
+    # for more information.
+    #
+    Options Indexes FollowSymLinks
+
+    #
+    # AllowOverride controls what directives may be placed in .htaccess files.
+    # It can be "All", "None", or any combination of the keywords:
+    #   Options FileInfo AuthConfig Limit
+    #
+    AllowOverride None
+
+    #
+    # Controls who can get stuff from this server.
+    #
+    Require all granted
+</Directory>
+
+#
+# DirectoryIndex: sets the file that Apache will serve if a directory
+# is requested.
+#
+<IfModule dir_module>
+    DirectoryIndex index.html
+</IfModule>
+
+#
+# The following lines prevent .htaccess and .htpasswd files from being
+# viewed by Web clients.
+#
+<Files ".ht*">
+    Require all denied
+</Files>
+
+#
+# ErrorLog: The location of the error log file.
+# If you do not specify an ErrorLog directive within a <VirtualHost>
+# container, error messages relating to that virtual host will be
+# logged here.  If you *do* define an error logfile for a <VirtualHost>
+# container, that host's errors will be logged there and not here.
+#
+ErrorLog "logs/error_log"
+
+#
+# LogLevel: Control the number of messages logged to the error_log.
+# Possible values include: debug, info, notice, warn, error, crit,
+# alert, emerg.
+#
+LogLevel warn
+
+<IfModule log_config_module>
+    #
+    # The following directives define some format nicknames for use with
+    # a CustomLog directive (see below).
+    #
+    LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"" com                                                                             bined
+    LogFormat "%h %l %u %t \"%r\" %>s %b" common
+
+    <IfModule logio_module>
+      # You need to enable mod_logio.c to use %I and %O
+      LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\" %I                                                                              %O" combinedio
+    </IfModule>
+
+    #
+    # The location and format of the access logfile (Common Logfile Format).
+    # If you do not define any access logfiles within a <VirtualHost>
+    # container, they will be logged here.  Contrariwise, if you *do*
+    # define per-<VirtualHost> access logfiles, transactions will be
+    # logged therein and *not* in this file.
+    #
+    #CustomLog "logs/access_log" common
+
+    #
+    # If you prefer a logfile with access, agent, and referer information
+    # (Combined Logfile Format) you can use the following directive.
+    #
+    CustomLog "logs/access_log" combined
+</IfModule>
+
+<IfModule alias_module>
+    #
+    # Redirect: Allows you to tell clients about documents that used to
+    # exist in your server's namespace, but do not anymore. The client
+    # will make a new request for the document at its new location.
+    # Example:
+    # Redirect permanent /foo http://www.example.com/bar
+
+    #
+    # Alias: Maps web paths into filesystem paths and is used to
+    # access content that does not live under the DocumentRoot.
+    # Example:
+    # Alias /webpath /full/filesystem/path
+    #
+    # If you include a trailing / on /webpath then the server will
+    # require it to be present in the URL.  You will also likely
+    # need to provide a <Directory> section to allow access to
+    # the filesystem path.
+
+    #
+    # ScriptAlias: This controls which directories contain server scripts.
+    # ScriptAliases are essentially the same as Aliases, except that
+    # documents in the target directory are treated as applications and
+    # run by the server when requested rather than as documents sent to the
+    # client.  The same rules about trailing "/" apply to ScriptAlias
+    # directives as to Alias.
+    #
+    ScriptAlias /cgi-bin/ "/var/www/cgi-bin/"
+
+</IfModule>
+
+#
+# "/var/www/cgi-bin" should be changed to whatever your ScriptAliased
+# CGI directory exists, if you have that configured.
+#
+<Directory "/var/www/cgi-bin">
+    AllowOverride None
+    Options None
+    Require all granted
+</Directory>
+
+<IfModule mime_module>
+    #
+    # TypesConfig points to the file containing the list of mappings from
+    # filename extension to MIME-type.
+    #
+    TypesConfig /etc/mime.types
+
+    #
+    # AddType allows you to add to or override the MIME configuration
+    # file specified in TypesConfig for specific file types.
+    #
+    #AddType application/x-gzip .tgz
+    #
+    # AddEncoding allows you to have certain browsers uncompress
+    # information on the fly. Note: Not all browsers support this.
+    #
+    #AddEncoding x-compress .Z
+    #AddEncoding x-gzip .gz .tgz
+    #
+    # If the AddEncoding directives above are commented-out, then you
+    # probably should define those extensions to indicate media types:
+    #
+    AddType application/x-compress .Z
+    AddType application/x-gzip .gz .tgz
+
+    #
+    # AddHandler allows you to map certain file extensions to "handlers":
+    # actions unrelated to filetype. These can be either built into the server
+    # or added with the Action directive (see below)
+    #
+    # To use CGI scripts outside of ScriptAliased directories:
+    # (You will also need to add "ExecCGI" to the "Options" directive.)
+    #
+    #AddHandler cgi-script .cgi
+
+    # For type maps (negotiated resources):
+    #AddHandler type-map var
+
+    #
+    # Filters allow you to process content before it is sent to the client.
+    #
+    # To parse .shtml files for server-side includes (SSI):
+    # (You will also need to add "Includes" to the "Options" directive.)
+    #
+    AddType text/html .shtml
+    AddOutputFilter INCLUDES .shtml
+</IfModule>
+
+#
+# Specify a default charset for all content served; this enables
+# interpretation of all content as UTF-8 by default.  To use the
+# default browser choice (ISO-8859-1), or to allow the META tags
+# in HTML content to override this choice, comment out this
+# directive:
+#
+AddDefaultCharset UTF-8
+
+<IfModule mime_magic_module>
+    #
+    # The mod_mime_magic module allows the server to use various hints from the
+    # contents of the file itself to determine its type.  The MIMEMagicFile
+    # directive tells the module where the hint definitions are located.
+    #
+    MIMEMagicFile conf/magic
+</IfModule>
+
+#
+# Customizable error responses come in three flavors:
+# 1) plain text 2) local redirects 3) external redirects
+#
+# Some examples:
+#ErrorDocument 500 "The server made a boo boo."
+#ErrorDocument 404 /missing.html
+#ErrorDocument 404 "/cgi-bin/missing_handler.pl"
+#ErrorDocument 402 http://www.example.com/subscription_info.html
+#
+
+#
+# EnableMMAP and EnableSendfile: On systems that support it,
+# memory-mapping or the sendfile syscall may be used to deliver
+# files.  This usually improves server performance, but must
+# be turned off when serving from networked-mounted
+# filesystems or if support for these functions is otherwise
+# broken on your system.
+# Defaults if commented: EnableMMAP On, EnableSendfile Off
+#
+#EnableMMAP off
+EnableSendfile on
+
+# Supplemental configuration
+#
+# Load config files in the "/etc/httpd/conf.d" directory, if any.
+IncludeOptional conf.d/*.conf
+[root@localhost ~]# systemctl restart h
+halt-local.service    httpd.service         hypervkvpd.service
+halt.target           httpd.socket          hypervvssd.service
+hibernate.target      hybrid-sleep.target
+htcacheclean.service  hypervfcopyd.service
+[root@localhost ~]# systemctl restart httpd.service
+[root@localhost ~]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; enabled; vendor prese>
+   Active: active (running) since Tue 2022-11-08 20:48:34 IST; 15s ago
+     Docs: man:httpd.service(8)
+ Main PID: 34410 (httpd)
+   Status: "Running, listening on: port 80"
+    Tasks: 213 (limit: 11222)
+   Memory: 25.0M
+   CGroup: /system.slice/httpd.service
+           ├─34410 /usr/sbin/httpd -DFOREGROUND
+           ├─34411 /usr/sbin/httpd -DFOREGROUND
+           ├─34412 /usr/sbin/httpd -DFOREGROUND
+           ├─34413 /usr/sbin/httpd -DFOREGROUND
+           └─34414 /usr/sbin/httpd -DFOREGROUND
+
+Nov 08 20:48:34 localhost.localdomain systemd[1]: Stopped The Apache HTTP Serve>
+Nov 08 20:48:34 localhost.localdomain systemd[1]: Starting The Apache HTTP Serv>
+Nov 08 20:48:34 localhost.localdomain httpd[34410]: AH00558: httpd: Could not r>
+Nov 08 20:48:34 localhost.localdomain systemd[1]: Started The Apache HTTP Serve>
+Nov 08 20:48:34 localhost.localdomain httpd[34410]: Server configured, listenin>
+[root@localhost ~]# cd /etc/httpd/conf.d/
+[root@localhost conf.d]# ls
+autoindex.conf  README  userdir.conf  welcome.conf
+[root@localhost conf.d]# cat welcome.conf
+#
+# This configuration file enables the default "Welcome" page if there
+# is no default index page present for the root URL.  To disable the
+# Welcome page, comment out all the lines below.
+#
+# NOTE: if this file is removed, it will be restored on upgrades.
+#
+<LocationMatch "^/+$">
+    Options -Indexes
+    ErrorDocument 403 /.noindex.html
+</LocationMatch>
+
+<Directory /usr/share/httpd/noindex>
+    AllowOverride None
+    Require all granted
+</Directory>
+
+Alias /.noindex.html /usr/share/httpd/noindex/index.html
+Alias /poweredby.png /usr/share/httpd/icons/apache_pb3.png[root@localhost conf.d                                                                             ]#
+[root@localhost conf.d]# rm -rf /etc/httpd/conf.d/welcome.conf
+[root@localhost conf.d]# httpd -t
+AH00558: httpd: Could not reliably determine the server's fully qualified domain                                                                              name, using localhost.localdomain. Set the 'ServerName' directive globally to s                                                                             uppress this message
+Syntax OK
+[root@localhost conf.d]# setfacl -R -m u:apache:rwx /root/local_repo/
+[root@localhost conf.d]# sestatus
+SELinux status:                 enabled
+SELinuxfs mount:                /sys/fs/selinux
+SELinux root directory:         /etc/selinux
+Loaded policy name:             targeted
+Current mode:                   enforcing
+Mode from config file:          enforcing
+Policy MLS status:              enabled
+Policy deny_unknown status:     allowed
+Memory protection checking:     actual (secure)
+Max kernel policy version:      33
+[root@localhost conf.d]# getenforce
+Enforcing
+[root@localhost conf.d]# chcon -Rt httpd_sys_content_t/root/local_repo
+chcon: missing operand
+Try 'chcon --help' for more information.
+[root@localhost conf.d]# chcon -Rt httpd_sys_content_t/root/local_repo/
+chcon: missing operand
+Try 'chcon --help' for more information.
+[root@localhost conf.d]# chcon -R -t httpd_sys_content_t/root/local_repo/
+chcon: missing operand
+Try 'chcon --help' for more information.
+[root@localhost conf.d]# chcon -Rt httpd_sys_content_t /root/local_repo/
+[root@localhost conf.d]#

@@ -1,0 +1,138 @@
+Configure an Apache-Based YUM/DNF repository on RHEL 8 (CentOS 8):
+==
+Step 1: Mount the Red Hat Enterprise Linux 8 media
+# mount /dev/cdrom /mnt 
+
+Step 2: Create a local YUM repository from the mounted media
+
+Move the existing repo files located in /etc/yum.repos.d:
+# mv /etc/yum.repos.d/*.repo /tmp/
+
+Create a directory for the repo:
+# mkdir /local_repo
+
+Create the new local repository’s configuration file, local-dvdrom.repo, under the /etc/yum.repos.d directory and set the permissions:
+# touch /etc/yum.repos.d/local-dvdrom.repo
+# chmod u+rw,g+r,o+r /etc/yum.repos.d/local-dvd.repo
+
+Step 3: Copy media content to the local directory
+
+Copy the ISO files locally under the /local_repo directory:
+# cd /mnt
+# tar cvf - . | (cd /local_repo/; tar xvf -)
+
+Verify that the files were copied using:
+# ls -l /local_repo/
+
+Step 4: Configure the local YUM/DNF repository
+
+Edit the repo configuration file we created earlier:
+# vim /etc/yum.repos.d/local-dvdrom.repo
+[LocalRepo_BaseOS]
+name=LocalRepo_BaseOS
+metadata_expire=-1
+enabled=1 
+gpgcheck=1
+baseurl=file:///local_repo/BaseOS/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
+[LocalRepo_AppStream]
+name=LocalRepo_AppStream
+metadata_expire=-1
+enabled=1
+gpgcheck=1
+baseurl=file:///local_repo/AppStream/
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+
+Check the Repository:
+# yum repolist
+
+Install the required packages for creating, configuring and managing the local repository:
+# yum install createrepo  yum-utils
+
+Finally, run the createrepo command:
+# createrepo /local_repo/
+
+Step 5: Test and verify your local repository
+
+In this step, you clean up the temporary repository files and verify that the local repository is enabled:
+# yum clean all
+# yum repolist
+
+Verify that the local repository was created:
+# ls /local_repo/repodata/
+
+Disable Subscription Warning:
+# vim /etc/yum/pluginconf.d/subscription-manager.conf
+[main]
+enabled=0
+
+Install Apache:
+
+To install the httpd (Apache) package using YUM:
+# yum install httpd
+
+Once Apache is installed, start and enable the httpd service to auto-start at boot and verify its status using the following commands:
+# systemctl start httpd
+# systemctl enable httpd
+
+Check the Status:
+# systemctl status httpd
+
+Configure the firewall so that Apache can be reached:
+# firewall-cmd  --permanent --add-service=http
+# firewall-cmd  --permanent --add-service=https
+# firewall-cmd --reload
+
+You can now verify that your Apache server is up and running by going to the localhost URL on your web browser.
+The default Apache web page http://192.168.1.109/
+
+To configure Apache, open the configuration file:
+# vim /etc/httpd/conf/httpd.conf
+DocumentRoot "/local_repo"
+Directory "/local_repo"
+    Options All Indexes FollowSymLinks
+    AllowOverride None
+    Require all granted
+/Directory
+
+Now, start the Apache service again and test its status:
+# systemctl restart httpd
+# systemctl status httpd
+
+Remove the welcome page so you can serve the repo files:
+# rm -rf /etc/httpd/conf.d/welcome.conf
+
+Test httpd and restart Apache:
+# httpd -t
+
+Change permissions and set SELinux:
+# setfacl -R -m u:apache:rwx /local_repo/
+
+Check if SELinux is enforcing:
+# getenforce
+
+If it is Enforcing, type:
+# chcon -Rt httpd_sys_content_t /local_repo/
+
+If SELinux is not set to Enforcing, then the files will not serve from the repo.
+# setenforce enforcing
+-----------
+
+Set up the client:
+Now, to configure the Red Hat Enterprise Linux 8 client machine’s repository.
+
+Add the repo
+On the client machine, add the local repos from the server to the client’s YUM configuration:
+# vim /etc/yum.repos.d/local-rhel8.repo
+[LocalServerRepo]
+name=LocalServerRepo
+enabled=1
+gpgcheck=0
+baseurl=http://192.168.1.109
+
+Verify the configuration:
+# yum repolist
+
+Test the LocalServerRepo by installing a package.
+# yum install vsftpd -y

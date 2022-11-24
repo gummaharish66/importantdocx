@@ -1,0 +1,2187 @@
+./BaseOS/Packages/ntsysv-1.19.1-1.el8.x86_64.rpm
+./BaseOS/Packages/ntsysv-1.19.1-1.el8.x86_64.rpm
+./BaseOS/Packages/numactl-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-devel-2.0.12-13.el8.i686.rpm
+./BaseOS/Packages/numactl-devel-2.0.12-13.el8.i686.rpm
+./BaseOS/Packages/numactl-devel-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-devel-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-libs-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-libs-2.0.12-13.el8.x86_64.rpm
+./BaseOS/Packages/numactl-libs-2.0.12-13.el8.i686.rpm
+./BaseOS/Packages/numactl-libs-2.0.12-13.el8.i686.rpm
+./BaseOS/Packages/numad-0.5-26.20150602git.el8.x86_64.rpm
+./BaseOS/Packages/numad-0.5-26.20150602git.el8.x86_64.rpm
+./BaseOS/Packages/numatop-2.2-1.el8.x86_64.rpm
+./BaseOS/Packages/numatop-2.2-1.el8.x86_64.rpm
+./BaseOS/Packages/nvme-cli-1.16-3.el8.x86_64.rpm
+./BaseOS/Packages/nvme-cli-1.16-3.el8.x86_64.rpm
+./BaseOS/Packages/nvmetcli-0.7-3.el8.noarch.rpm
+./BaseOS/Packages/nvmetcli-0.7-3.el8.noarch.rpm
+./BaseOS/Packages/opa-address-resolution-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-address-resolution-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-basic-tools-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-basic-tools-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-fastfabric-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-fastfabric-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-fm-10.11.0.2.1-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-fm-10.11.0.2.1-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-libopamgt-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opa-libopamgt-10.11.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-icsftok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-icsftok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-libs-3.17.0-3.el8.i686.rpm
+./BaseOS/Packages/opencryptoki-libs-3.17.0-3.el8.i686.rpm
+./BaseOS/Packages/opencryptoki-libs-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-libs-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-swtok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-swtok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-tpmtok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/opencryptoki-tpmtok-3.17.0-3.el8.x86_64.rpm
+./BaseOS/Packages/openhpi-3.8.0-10.el8.x86_64.rpm
+./BaseOS/Packages/openhpi-3.8.0-10.el8.x86_64.rpm
+./BaseOS/Packages/openhpi-libs-3.8.0-10.el8.i686.rpm
+./BaseOS/Packages/openhpi-libs-3.8.0-10.el8.i686.rpm
+./BaseOS/Packages/openhpi-libs-3.8.0-10.el8.x86_64.rpm
+./BaseOS/Packages/openhpi-libs-3.8.0-10.el8.x86_64.rpm
+./BaseOS/Packages/openldap-2.4.46-18.el8.i686.rpm
+./BaseOS/Packages/openldap-2.4.46-18.el8.i686.rpm
+./BaseOS/Packages/openldap-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/openldap-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/openldap-clients-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/openldap-clients-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/openldap-devel-2.4.46-18.el8.i686.rpm
+./BaseOS/Packages/openldap-devel-2.4.46-18.el8.i686.rpm
+./BaseOS/Packages/openldap-devel-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/openldap-devel-2.4.46-18.el8.x86_64.rpm
+./BaseOS/Packages/opensc-0.20.0-4.el8.i686.rpm
+./BaseOS/Packages/opensc-0.20.0-4.el8.i686.rpm
+./BaseOS/Packages/opensc-0.20.0-4.el8.x86_64.rpm
+./BaseOS/Packages/opensc-0.20.0-4.el8.x86_64.rpm
+./BaseOS/Packages/opensm-3.3.24-1.el8.x86_64.rpm
+./BaseOS/Packages/opensm-3.3.24-1.el8.x86_64.rpm
+./BaseOS/Packages/opensm-libs-3.3.24-1.el8.i686.rpm
+./BaseOS/Packages/opensm-libs-3.3.24-1.el8.i686.rpm
+./BaseOS/Packages/opensm-libs-3.3.24-1.el8.x86_64.rpm
+./BaseOS/Packages/opensm-libs-3.3.24-1.el8.x86_64.rpm
+./BaseOS/Packages/openssh-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-cavs-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-cavs-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-clients-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-clients-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-keycat-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-keycat-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-ldap-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-ldap-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-server-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssh-server-8.0p1-13.el8.x86_64.rpm
+./BaseOS/Packages/openssl-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-devel-1.1.1k-6.el8_5.i686.rpm
+./BaseOS/Packages/openssl-devel-1.1.1k-6.el8_5.i686.rpm
+./BaseOS/Packages/openssl-devel-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-devel-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-ibmpkcs11-1.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/openssl-libs-1.1.1k-6.el8_5.i686.rpm
+./BaseOS/Packages/openssl-ibmpkcs11-1.0.2-1.el8.x86_64.rpm
+./BaseOS/Packages/openssl-libs-1.1.1k-6.el8_5.i686.rpm
+./BaseOS/Packages/openssl-libs-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-libs-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-perl-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-perl-1.1.1k-6.el8_5.x86_64.rpm
+./BaseOS/Packages/openssl-pkcs11-0.4.10-2.el8.i686.rpm
+./BaseOS/Packages/openssl-pkcs11-0.4.10-2.el8.i686.rpm
+./BaseOS/Packages/openssl-pkcs11-0.4.10-2.el8.x86_64.rpm
+./BaseOS/Packages/openssl-pkcs11-0.4.10-2.el8.x86_64.rpm
+./BaseOS/Packages/os-prober-1.74-9.el8.x86_64.rpm
+./BaseOS/Packages/os-prober-1.74-9.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-devel-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-devel-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-devel-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-devel-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-server-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-server-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-trust-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-trust-0.23.22-1.el8.i686.rpm
+./BaseOS/Packages/p11-kit-trust-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/p11-kit-trust-0.23.22-1.el8.x86_64.rpm
+./BaseOS/Packages/pam-1.3.1-16.el8.i686.rpm
+./BaseOS/Packages/pam-1.3.1-16.el8.i686.rpm
+./BaseOS/Packages/pam-1.3.1-16.el8.x86_64.rpm
+./BaseOS/Packages/pam-1.3.1-16.el8.x86_64.rpm
+./BaseOS/Packages/pam-devel-1.3.1-16.el8.i686.rpm
+./BaseOS/Packages/pam-devel-1.3.1-16.el8.i686.rpm
+./BaseOS/Packages/pam-devel-1.3.1-16.el8.x86_64.rpm
+./BaseOS/Packages/pam-devel-1.3.1-16.el8.x86_64.rpm
+./BaseOS/Packages/pam_cifscreds-6.8-3.el8.x86_64.rpm
+./BaseOS/Packages/pam_cifscreds-6.8-3.el8.x86_64.rpm
+./BaseOS/Packages/pam_ssh_agent_auth-0.10.3-7.13.el8.x86_64.rpm
+./BaseOS/Packages/pam_ssh_agent_auth-0.10.3-7.13.el8.x86_64.rpm
+./BaseOS/Packages/parted-3.2-39.el8.i686.rpm
+./BaseOS/Packages/parted-3.2-39.el8.i686.rpm
+./BaseOS/Packages/parted-3.2-39.el8.x86_64.rpm
+./BaseOS/Packages/parted-3.2-39.el8.x86_64.rpm
+./BaseOS/Packages/passwd-0.80-4.el8.x86_64.rpm
+./BaseOS/Packages/passwd-0.80-4.el8.x86_64.rpm
+./BaseOS/Packages/patch-2.7.6-11.el8.x86_64.rpm
+./BaseOS/Packages/patch-2.7.6-11.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-devel-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-devel-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-devel-3.7.0-1.el8.i686.rpm
+./BaseOS/Packages/pciutils-devel-3.7.0-1.el8.i686.rpm
+./BaseOS/Packages/pciutils-libs-3.7.0-1.el8.i686.rpm
+./BaseOS/Packages/pciutils-libs-3.7.0-1.el8.i686.rpm
+./BaseOS/Packages/pciutils-libs-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pciutils-libs-3.7.0-1.el8.x86_64.rpm
+./BaseOS/Packages/pcre-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-cpp-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-cpp-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-cpp-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-cpp-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-devel-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-devel-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-devel-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-devel-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-utf16-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-utf16-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-utf16-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-utf16-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-utf32-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-utf32-8.42-6.el8.i686.rpm
+./BaseOS/Packages/pcre-utf32-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre-utf32-8.42-6.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-devel-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-devel-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-devel-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-devel-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-utf16-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-utf16-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-utf16-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-utf16-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-utf32-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-utf32-10.32-2.el8.i686.rpm
+./BaseOS/Packages/pcre2-utf32-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcre2-utf32-10.32-2.el8.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-1.9.5-1.el8.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-1.9.5-1.el8.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-ccid-1.4.29-5.1.el8_4.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-ccid-1.4.29-5.1.el8_4.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-doc-1.9.5-1.el8.noarch.rpm
+./BaseOS/Packages/pcsc-lite-doc-1.9.5-1.el8.noarch.rpm
+./BaseOS/Packages/pcsc-lite-libs-1.9.5-1.el8.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-libs-1.9.5-1.el8.x86_64.rpm
+./BaseOS/Packages/pcsc-lite-libs-1.9.5-1.el8.i686.rpm
+./BaseOS/Packages/pcsc-lite-libs-1.9.5-1.el8.i686.rpm
+./BaseOS/Packages/perf-4.18.0-372.9.1.el8.x86_64.rpm
+./BaseOS/Packages/perf-4.18.0-372.9.1.el8.x86_64.rpm
+./BaseOS/Packages/perftest-4.5-12.el8.x86_64.rpm
+./BaseOS/Packages/perftest-4.5-12.el8.x86_64.rpm
+./BaseOS/Packages/perl-Algorithm-Diff-1.1903-9.el8.noarch.rpm
+./BaseOS/Packages/perl-Algorithm-Diff-1.1903-9.el8.noarch.rpm
+./BaseOS/Packages/perl-Archive-Tar-2.30-1.el8.noarch.rpm
+./BaseOS/Packages/perl-Archive-Tar-2.30-1.el8.noarch.rpm
+./BaseOS/Packages/perl-Carp-1.42-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Compress-Raw-Bzip2-2.081-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-Carp-1.42-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Compress-Raw-Bzip2-2.081-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-Compress-Raw-Zlib-2.081-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-Compress-Raw-Zlib-2.081-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-DBD-SQLite-1.58-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-DBD-SQLite-1.58-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-DBI-1.641-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-DBI-1.641-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-Data-Dumper-2.167-399.el8.x86_64.rpm
+./BaseOS/Packages/perl-Data-Dumper-2.167-399.el8.x86_64.rpm
+./BaseOS/Packages/perl-Date-Manip-6.60-2.el8.noarch.rpm
+./BaseOS/Packages/perl-Date-Manip-6.60-2.el8.noarch.rpm
+./BaseOS/Packages/perl-Encode-2.97-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Encode-2.97-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Errno-1.28-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-Errno-1.28-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-Exporter-5.72-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Exporter-5.72-396.el8.noarch.rpm
+./BaseOS/Packages/perl-File-Path-2.15-2.el8.noarch.rpm
+./BaseOS/Packages/perl-File-Path-2.15-2.el8.noarch.rpm
+./BaseOS/Packages/perl-File-Temp-0.230.600-1.el8.noarch.rpm
+./BaseOS/Packages/perl-File-Temp-0.230.600-1.el8.noarch.rpm
+./BaseOS/Packages/perl-Getopt-Long-2.50-4.el8.noarch.rpm
+./BaseOS/Packages/perl-Getopt-Long-2.50-4.el8.noarch.rpm
+./BaseOS/Packages/perl-HTTP-Tiny-0.074-1.el8.noarch.rpm
+./BaseOS/Packages/perl-HTTP-Tiny-0.074-1.el8.noarch.rpm
+./BaseOS/Packages/perl-IO-1.38-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-IO-1.38-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-IO-Compress-2.081-1.el8.noarch.rpm
+./BaseOS/Packages/perl-IO-Compress-2.081-1.el8.noarch.rpm
+./BaseOS/Packages/perl-IO-Zlib-1.10-421.el8.noarch.rpm
+./BaseOS/Packages/perl-IO-Zlib-1.10-421.el8.noarch.rpm
+./BaseOS/Packages/perl-MIME-Base64-3.15-396.el8.x86_64.rpm
+./BaseOS/Packages/perl-Math-BigInt-1.9998.11-7.el8.noarch.rpm
+./BaseOS/Packages/perl-MIME-Base64-3.15-396.el8.x86_64.rpm
+./BaseOS/Packages/perl-Math-BigInt-1.9998.11-7.el8.noarch.rpm
+./BaseOS/Packages/perl-Math-Complex-1.59-421.el8.noarch.rpm
+./BaseOS/Packages/perl-Math-Complex-1.59-421.el8.noarch.rpm
+./BaseOS/Packages/perl-Parse-Yapp-1.21-2.el8.noarch.rpm
+./BaseOS/Packages/perl-Parse-Yapp-1.21-2.el8.noarch.rpm
+./BaseOS/Packages/perl-PathTools-3.74-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-PathTools-3.74-1.el8.x86_64.rpm
+./BaseOS/Packages/perl-Pod-Escapes-1.07-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Escapes-1.07-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Perldoc-3.28-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Perldoc-3.28-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Simple-3.35-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Simple-3.35-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Usage-1.69-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Pod-Usage-1.69-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Scalar-List-Utils-1.49-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-Scalar-List-Utils-1.49-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-Socket-2.027-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Socket-2.027-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Storable-3.11-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Storable-3.11-3.el8.x86_64.rpm
+./BaseOS/Packages/perl-Sys-CPU-0.61-14.el8.x86_64.rpm
+./BaseOS/Packages/perl-Sys-CPU-0.61-14.el8.x86_64.rpm
+./BaseOS/Packages/perl-Sys-MemInfo-0.99-6.el8.x86_64.rpm
+./BaseOS/Packages/perl-Sys-MemInfo-0.99-6.el8.x86_64.rpm
+./BaseOS/Packages/perl-Term-ANSIColor-4.06-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Term-ANSIColor-4.06-396.el8.noarch.rpm
+./BaseOS/Packages/perl-Term-Cap-1.17-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Term-Cap-1.17-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-Diff-1.45-2.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-Diff-1.45-2.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-ParseWords-3.30-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-ParseWords-3.30-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-Tabs+Wrap-2013.0523-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Text-Tabs+Wrap-2013.0523-395.el8.noarch.rpm
+./BaseOS/Packages/perl-Time-Local-1.280-1.el8.noarch.rpm
+./BaseOS/Packages/perl-Time-Local-1.280-1.el8.noarch.rpm
+./BaseOS/Packages/perl-Unicode-Normalize-1.25-396.el8.x86_64.rpm
+./BaseOS/Packages/perl-Unicode-Normalize-1.25-396.el8.x86_64.rpm
+./BaseOS/Packages/perl-constant-1.33-396.el8.noarch.rpm
+./BaseOS/Packages/perl-constant-1.33-396.el8.noarch.rpm
+./BaseOS/Packages/perl-interpreter-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-interpreter-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-libs-5.26.3-421.el8.i686.rpm
+./BaseOS/Packages/perl-libs-5.26.3-421.el8.i686.rpm
+./BaseOS/Packages/perl-libs-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-libs-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-macros-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-macros-5.26.3-421.el8.x86_64.rpm
+./BaseOS/Packages/perl-parent-0.237-1.el8.noarch.rpm
+./BaseOS/Packages/perl-parent-0.237-1.el8.noarch.rpm
+./BaseOS/Packages/perl-podlators-4.11-1.el8.noarch.rpm
+./BaseOS/Packages/perl-podlators-4.11-1.el8.noarch.rpm
+./BaseOS/Packages/perl-threads-2.21-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-threads-2.21-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-threads-shared-1.58-2.el8.x86_64.rpm
+./BaseOS/Packages/perl-threads-shared-1.58-2.el8.x86_64.rpm
+./BaseOS/Packages/pigz-2.4-4.el8.x86_64.rpm
+./BaseOS/Packages/pigz-2.4-4.el8.x86_64.rpm
+./BaseOS/Packages/pkgconf-1.4.2-1.el8.i686.rpm
+./BaseOS/Packages/pkgconf-1.4.2-1.el8.i686.rpm
+./BaseOS/Packages/pkgconf-1.4.2-1.el8.x86_64.rpm
+./BaseOS/Packages/pkgconf-1.4.2-1.el8.x86_64.rpm
+./BaseOS/Packages/pkgconf-m4-1.4.2-1.el8.noarch.rpm
+./BaseOS/Packages/pkgconf-m4-1.4.2-1.el8.noarch.rpm
+./BaseOS/Packages/pkgconf-pkg-config-1.4.2-1.el8.i686.rpm
+./BaseOS/Packages/pkgconf-pkg-config-1.4.2-1.el8.x86_64.rpm
+./BaseOS/Packages/pkgconf-pkg-config-1.4.2-1.el8.i686.rpm
+./BaseOS/Packages/pkgconf-pkg-config-1.4.2-1.el8.x86_64.rpm
+./BaseOS/Packages/platform-python-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/platform-python-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/platform-python-pip-9.0.3-22.el8.noarch.rpm
+./BaseOS/Packages/platform-python-pip-9.0.3-22.el8.noarch.rpm
+./BaseOS/Packages/platform-python-setuptools-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/platform-python-setuptools-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/policycoreutils-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-dbus-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/policycoreutils-dbus-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/policycoreutils-devel-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-devel-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-devel-2.9-19.el8.i686.rpm
+./BaseOS/Packages/policycoreutils-devel-2.9-19.el8.i686.rpm
+./BaseOS/Packages/policycoreutils-newrole-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-newrole-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-python-utils-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/policycoreutils-python-utils-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/policycoreutils-restorecond-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/policycoreutils-restorecond-2.9-19.el8.x86_64.rpm
+./BaseOS/Packages/polkit-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-devel-0.115-13.el8_5.2.i686.rpm
+./BaseOS/Packages/polkit-devel-0.115-13.el8_5.2.i686.rpm
+./BaseOS/Packages/polkit-devel-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-devel-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-docs-0.115-13.el8_5.2.noarch.rpm
+./BaseOS/Packages/polkit-docs-0.115-13.el8_5.2.noarch.rpm
+./BaseOS/Packages/polkit-libs-0.115-13.el8_5.2.i686.rpm
+./BaseOS/Packages/polkit-libs-0.115-13.el8_5.2.i686.rpm
+./BaseOS/Packages/polkit-libs-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-libs-0.115-13.el8_5.2.x86_64.rpm
+./BaseOS/Packages/polkit-pkla-compat-0.1-12.el8.x86_64.rpm
+./BaseOS/Packages/polkit-pkla-compat-0.1-12.el8.x86_64.rpm
+./BaseOS/Packages/popt-1.18-1.el8.i686.rpm
+./BaseOS/Packages/popt-1.18-1.el8.i686.rpm
+./BaseOS/Packages/popt-1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/popt-1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/popt-devel-1.18-1.el8.i686.rpm
+./BaseOS/Packages/popt-devel-1.18-1.el8.i686.rpm
+./BaseOS/Packages/popt-devel-1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/popt-devel-1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/portreserve-0.0.5-19.el8.x86_64.rpm
+./BaseOS/Packages/portreserve-0.0.5-19.el8.x86_64.rpm
+./BaseOS/Packages/postfix-3.5.8-4.el8.x86_64.rpm
+./BaseOS/Packages/postfix-3.5.8-4.el8.x86_64.rpm
+./BaseOS/Packages/ppp-2.4.7-26.el8.x86_64.rpm
+./BaseOS/Packages/ppp-2.4.7-26.el8.x86_64.rpm
+./BaseOS/Packages/prefixdevname-0.1.0-6.el8.x86_64.rpm
+./BaseOS/Packages/prefixdevname-0.1.0-6.el8.x86_64.rpm
+./BaseOS/Packages/procps-ng-3.3.15-6.el8.i686.rpm
+./BaseOS/Packages/procps-ng-3.3.15-6.el8.i686.rpm
+./BaseOS/Packages/procps-ng-3.3.15-6.el8.x86_64.rpm
+./BaseOS/Packages/procps-ng-3.3.15-6.el8.x86_64.rpm
+./BaseOS/Packages/procps-ng-i18n-3.3.15-6.el8.noarch.rpm
+./BaseOS/Packages/procps-ng-i18n-3.3.15-6.el8.noarch.rpm
+./BaseOS/Packages/ps_mem-3.6-9.el8.noarch.rpm
+./BaseOS/Packages/ps_mem-3.6-9.el8.noarch.rpm
+./BaseOS/Packages/psacct-6.6.3-4.el8.x86_64.rpm
+./BaseOS/Packages/psacct-6.6.3-4.el8.x86_64.rpm
+./BaseOS/Packages/psmisc-23.1-5.el8.x86_64.rpm
+./BaseOS/Packages/psmisc-23.1-5.el8.x86_64.rpm
+./BaseOS/Packages/publicsuffix-list-20180723-1.el8.noarch.rpm
+./BaseOS/Packages/publicsuffix-list-20180723-1.el8.noarch.rpm
+./BaseOS/Packages/publicsuffix-list-dafsa-20180723-1.el8.noarch.rpm
+./BaseOS/Packages/publicsuffix-list-dafsa-20180723-1.el8.noarch.rpm
+./BaseOS/Packages/python3-asn1crypto-0.24.0-3.el8.noarch.rpm
+./BaseOS/Packages/python3-asn1crypto-0.24.0-3.el8.noarch.rpm
+./BaseOS/Packages/python3-audit-3.0.7-2.el8.2.x86_64.rpm
+./BaseOS/Packages/python3-audit-3.0.7-2.el8.2.x86_64.rpm
+./BaseOS/Packages/python3-avahi-0.7-20.el8.x86_64.rpm
+./BaseOS/Packages/python3-boom-1.3-2.el8.noarch.rpm
+./BaseOS/Packages/python3-avahi-0.7-20.el8.x86_64.rpm
+./BaseOS/Packages/python3-boom-1.3-2.el8.noarch.rpm
+./BaseOS/Packages/python3-cffi-1.11.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-cffi-1.11.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-chardet-3.0.4-7.el8.noarch.rpm
+./BaseOS/Packages/python3-chardet-3.0.4-7.el8.noarch.rpm
+./BaseOS/Packages/python3-cloud-what-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-cloud-what-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-configobj-5.0.6-11.el8.noarch.rpm
+./BaseOS/Packages/python3-configobj-5.0.6-11.el8.noarch.rpm
+./BaseOS/Packages/python3-configshell-1.1.28-1.el8.noarch.rpm
+./BaseOS/Packages/python3-configshell-1.1.28-1.el8.noarch.rpm
+./BaseOS/Packages/python3-cryptography-3.2.1-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-cryptography-3.2.1-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-dateutil-2.6.1-6.el8.noarch.rpm
+./BaseOS/Packages/python3-dateutil-2.6.1-6.el8.noarch.rpm
+./BaseOS/Packages/python3-dbus-1.2.4-15.el8.x86_64.rpm
+./BaseOS/Packages/python3-dbus-1.2.4-15.el8.x86_64.rpm
+./BaseOS/Packages/python3-decorator-4.2.1-2.el8.noarch.rpm
+./BaseOS/Packages/python3-decorator-4.2.1-2.el8.noarch.rpm
+./BaseOS/Packages/python3-dmidecode-3.12.2-15.el8.x86_64.rpm
+./BaseOS/Packages/python3-dmidecode-3.12.2-15.el8.x86_64.rpm
+./BaseOS/Packages/python3-dnf-4.7.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-dnf-4.7.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-dnf-plugin-post-transaction-actions-4.0.21-11.el8.noar                                                                             ch.rpm
+./BaseOS/Packages/python3-dnf-plugin-post-transaction-actions-4.0.21-11.el8.noar                                                                             ch.rpm
+./BaseOS/Packages/python3-dnf-plugin-versionlock-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/python3-dnf-plugin-versionlock-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/python3-dnf-plugins-core-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/python3-dnf-plugins-core-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/python3-dns-1.15.0-10.el8.noarch.rpm
+./BaseOS/Packages/python3-dns-1.15.0-10.el8.noarch.rpm
+./BaseOS/Packages/python3-ethtool-0.14-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-ethtool-0.14-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-firewall-0.9.3-13.el8.noarch.rpm
+./BaseOS/Packages/python3-firewall-0.9.3-13.el8.noarch.rpm
+./BaseOS/Packages/python3-gobject-base-3.28.3-2.el8.x86_64.rpm
+./BaseOS/Packages/python3-gobject-base-3.28.3-2.el8.x86_64.rpm
+./BaseOS/Packages/python3-gpg-1.13.1-11.el8.x86_64.rpm
+./BaseOS/Packages/python3-gpg-1.13.1-11.el8.x86_64.rpm
+./BaseOS/Packages/python3-hawkey-0.63.0-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-hawkey-0.63.0-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-idna-2.5-5.el8.noarch.rpm
+./BaseOS/Packages/python3-idna-2.5-5.el8.noarch.rpm
+./BaseOS/Packages/python3-iniparse-0.4-31.el8.noarch.rpm
+./BaseOS/Packages/python3-iniparse-0.4-31.el8.noarch.rpm
+./BaseOS/Packages/python3-inotify-0.9.6-13.el8.noarch.rpm
+./BaseOS/Packages/python3-inotify-0.9.6-13.el8.noarch.rpm
+./BaseOS/Packages/python3-iscsi-initiator-utils-6.2.1.4-4.git095f59c.el8.x86_64.                                                                             rpm
+./BaseOS/Packages/python3-iscsi-initiator-utils-6.2.1.4-4.git095f59c.el8.x86_64.                                                                             rpm
+./BaseOS/Packages/python3-jwt-1.6.1-2.el8.noarch.rpm
+./BaseOS/Packages/python3-jwt-1.6.1-2.el8.noarch.rpm
+./BaseOS/Packages/python3-kmod-0.9-20.el8.x86_64.rpm
+./BaseOS/Packages/python3-kmod-0.9-20.el8.x86_64.rpm
+./BaseOS/Packages/python3-ldb-2.4.1-1.el8.i686.rpm
+./BaseOS/Packages/python3-ldb-2.4.1-1.el8.i686.rpm
+./BaseOS/Packages/python3-ldb-2.4.1-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-ldb-2.4.1-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libcomps-0.1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libcomps-0.1.18-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libdnf-0.63.0-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-libdnf-0.63.0-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-libipa_hbac-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libipa_hbac-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libnl3-3.5.0-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libnl3-3.5.0-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libproxy-0.4.15-5.2.el8.noarch.rpm
+./BaseOS/Packages/python3-librepo-1.14.2-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libproxy-0.4.15-5.2.el8.noarch.rpm
+./BaseOS/Packages/python3-librepo-1.14.2-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-libs-3.6.8-45.el8.i686.rpm
+./BaseOS/Packages/python3-libs-3.6.8-45.el8.i686.rpm
+./BaseOS/Packages/python3-libs-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/python3-libs-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/python3-libselinux-2.9-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-libselinux-2.9-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-libsemanage-2.9-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-libsemanage-2.9-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-libsss_nss_idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libsss_nss_idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libstoragemgmt-1.9.1-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libstoragemgmt-1.9.1-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-libstoragemgmt-1.9.1-3.el8.i686.rpm
+./BaseOS/Packages/python3-libstoragemgmt-1.9.1-3.el8.i686.rpm
+./BaseOS/Packages/python3-libuser-0.62-24.el8.x86_64.rpm
+./BaseOS/Packages/python3-libuser-0.62-24.el8.x86_64.rpm
+./BaseOS/Packages/python3-libxml2-2.9.7-13.el8.x86_64.rpm
+./BaseOS/Packages/python3-libxml2-2.9.7-13.el8.x86_64.rpm
+./BaseOS/Packages/python3-linux-procfs-0.7.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-linux-procfs-0.7.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-magic-5.33-20.el8.noarch.rpm
+./BaseOS/Packages/python3-magic-5.33-20.el8.noarch.rpm
+./BaseOS/Packages/python3-nftables-0.9.3-25.el8.x86_64.rpm
+./BaseOS/Packages/python3-nftables-0.9.3-25.el8.x86_64.rpm
+./BaseOS/Packages/python3-oauthlib-2.1.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-oauthlib-2.1.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-openipmi-2.0.31-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-openipmi-2.0.31-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-perf-4.18.0-372.9.1.el8.x86_64.rpm
+./BaseOS/Packages/python3-perf-4.18.0-372.9.1.el8.x86_64.rpm
+./BaseOS/Packages/python3-pip-wheel-9.0.3-22.el8.noarch.rpm
+./BaseOS/Packages/python3-pip-wheel-9.0.3-22.el8.noarch.rpm
+./BaseOS/Packages/python3-ply-3.9-9.el8.noarch.rpm
+./BaseOS/Packages/python3-ply-3.9-9.el8.noarch.rpm
+./BaseOS/Packages/python3-policycoreutils-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/python3-policycoreutils-2.9-19.el8.noarch.rpm
+./BaseOS/Packages/python3-pwquality-1.4.4-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-pycparser-2.14-14.el8.noarch.rpm
+./BaseOS/Packages/python3-pwquality-1.4.4-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-pycparser-2.14-14.el8.noarch.rpm
+./BaseOS/Packages/python3-pyparsing-2.1.10-7.el8.noarch.rpm
+./BaseOS/Packages/python3-pyparsing-2.1.10-7.el8.noarch.rpm
+./BaseOS/Packages/python3-pysocks-1.6.8-3.el8.noarch.rpm
+./BaseOS/Packages/python3-pysocks-1.6.8-3.el8.noarch.rpm
+./BaseOS/Packages/python3-pyudev-0.21.0-7.el8.noarch.rpm
+./BaseOS/Packages/python3-pyudev-0.21.0-7.el8.noarch.rpm
+./BaseOS/Packages/python3-pyverbs-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-pyverbs-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-pywbem-0.11.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-pywbem-0.11.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-pyyaml-3.12-12.el8.x86_64.rpm
+./BaseOS/Packages/python3-pyyaml-3.12-12.el8.x86_64.rpm
+./BaseOS/Packages/python3-requests-2.20.0-2.1.el8_1.noarch.rpm
+./BaseOS/Packages/python3-requests-2.20.0-2.1.el8_1.noarch.rpm
+./BaseOS/Packages/python3-requests-oauthlib-1.0.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-requests-oauthlib-1.0.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-rpm-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/python3-rpm-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/python3-rtslib-2.1.74-1.el8.noarch.rpm
+./BaseOS/Packages/python3-rtslib-2.1.74-1.el8.noarch.rpm
+./BaseOS/Packages/python3-samba-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-samba-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-samba-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/python3-samba-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/python3-samba-test-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-samba-test-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/python3-schedutils-0.6-6.el8.x86_64.rpm
+./BaseOS/Packages/python3-schedutils-0.6-6.el8.x86_64.rpm
+./BaseOS/Packages/python3-setools-4.3.0-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-setools-4.3.0-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-setuptools-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/python3-setuptools-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/python3-setuptools-wheel-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/python3-setuptools-wheel-39.2.0-6.el8.noarch.rpm
+./BaseOS/Packages/python3-six-1.11.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-six-1.11.0-8.el8.noarch.rpm
+./BaseOS/Packages/python3-slip-0.6.4-11.el8.noarch.rpm
+./BaseOS/Packages/python3-slip-0.6.4-11.el8.noarch.rpm
+./BaseOS/Packages/python3-slip-dbus-0.6.4-11.el8.noarch.rpm
+./BaseOS/Packages/python3-slip-dbus-0.6.4-11.el8.noarch.rpm
+./BaseOS/Packages/python3-solv-0.7.20-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-solv-0.7.20-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-sss-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-sss-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-sss-murmur-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-sss-murmur-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-sssdconfig-2.6.2-3.el8.noarch.rpm
+./BaseOS/Packages/python3-sssdconfig-2.6.2-3.el8.noarch.rpm
+./BaseOS/Packages/python3-subscription-manager-rhsm-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-subscription-manager-rhsm-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-syspurpose-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-syspurpose-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/python3-systemd-234-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-systemd-234-8.el8.x86_64.rpm
+./BaseOS/Packages/python3-talloc-2.3.3-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-talloc-2.3.3-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-talloc-2.3.3-1.el8.i686.rpm
+./BaseOS/Packages/python3-talloc-2.3.3-1.el8.i686.rpm
+./BaseOS/Packages/python3-tdb-1.4.4-1.el8.i686.rpm
+./BaseOS/Packages/python3-tdb-1.4.4-1.el8.i686.rpm
+./BaseOS/Packages/python3-tdb-1.4.4-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-tdb-1.4.4-1.el8.x86_64.rpm
+./BaseOS/Packages/python3-test-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/python3-test-3.6.8-45.el8.x86_64.rpm
+./BaseOS/Packages/python3-tevent-0.11.0-0.el8.x86_64.rpm
+./BaseOS/Packages/python3-tevent-0.11.0-0.el8.x86_64.rpm
+./BaseOS/Packages/python3-urllib3-1.24.2-5.el8.noarch.rpm
+./BaseOS/Packages/python3-urllib3-1.24.2-5.el8.noarch.rpm
+./BaseOS/Packages/python3-urwid-1.3.1-4.el8.x86_64.rpm
+./BaseOS/Packages/python3-urwid-1.3.1-4.el8.x86_64.rpm
+./BaseOS/Packages/python3-varlink-29.0.0-1.el8.noarch.rpm
+./BaseOS/Packages/python3-varlink-29.0.0-1.el8.noarch.rpm
+./BaseOS/Packages/quota-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-doc-4.04-14.el8.noarch.rpm
+./BaseOS/Packages/quota-doc-4.04-14.el8.noarch.rpm
+./BaseOS/Packages/quota-nld-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-nld-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-nls-4.04-14.el8.noarch.rpm
+./BaseOS/Packages/quota-nls-4.04-14.el8.noarch.rpm
+./BaseOS/Packages/quota-rpc-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-rpc-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-warnquota-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/quota-warnquota-4.04-14.el8.x86_64.rpm
+./BaseOS/Packages/rasdaemon-0.6.1-12.el8.x86_64.rpm
+./BaseOS/Packages/rasdaemon-0.6.1-12.el8.x86_64.rpm
+./BaseOS/Packages/rdma-core-37.2-1.el8.i686.rpm
+./BaseOS/Packages/rdma-core-37.2-1.el8.i686.rpm
+./BaseOS/Packages/rdma-core-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/rdma-core-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/rdma-core-devel-37.2-1.el8.i686.rpm
+./BaseOS/Packages/rdma-core-devel-37.2-1.el8.i686.rpm
+./BaseOS/Packages/rdma-core-devel-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/rdma-core-devel-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/readline-7.0-10.el8.i686.rpm
+./BaseOS/Packages/readline-7.0-10.el8.i686.rpm
+./BaseOS/Packages/readline-7.0-10.el8.x86_64.rpm
+./BaseOS/Packages/readline-7.0-10.el8.x86_64.rpm
+./BaseOS/Packages/readline-devel-7.0-10.el8.i686.rpm
+./BaseOS/Packages/readline-devel-7.0-10.el8.i686.rpm
+./BaseOS/Packages/readline-devel-7.0-10.el8.x86_64.rpm
+./BaseOS/Packages/readline-devel-7.0-10.el8.x86_64.rpm
+./BaseOS/Packages/readonly-root-10.00.15-1.el8.noarch.rpm
+./BaseOS/Packages/readonly-root-10.00.15-1.el8.noarch.rpm
+./BaseOS/Packages/realmd-0.16.3-25.el8.x86_64.rpm
+./BaseOS/Packages/realmd-0.16.3-25.el8.x86_64.rpm
+./BaseOS/Packages/redhat-indexhtml-8-7.el8.noarch.rpm
+./BaseOS/Packages/redhat-indexhtml-8-7.el8.noarch.rpm
+./BaseOS/Packages/redhat-logos-84.5-1.el8.x86_64.rpm
+./BaseOS/Packages/redhat-logos-84.5-1.el8.x86_64.rpm
+./BaseOS/Packages/redhat-logos-httpd-84.5-1.el8.noarch.rpm
+./BaseOS/Packages/redhat-logos-httpd-84.5-1.el8.noarch.rpm
+./BaseOS/Packages/redhat-release-8.6-0.1.el8.x86_64.rpm
+./BaseOS/Packages/redhat-release-8.6-0.1.el8.x86_64.rpm
+./BaseOS/Packages/redhat-release-eula-8.6-0.1.el8.x86_64.rpm
+./BaseOS/Packages/rhsm-icons-1.28.29-3.el8.noarch.rpm
+./BaseOS/Packages/redhat-release-eula-8.6-0.1.el8.x86_64.rpm
+./BaseOS/Packages/rhsm-icons-1.28.29-3.el8.noarch.rpm
+./BaseOS/Packages/rmt-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/rmt-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/rng-tools-6.14-4.git.b2b7934e.el8.x86_64.rpm
+./BaseOS/Packages/rng-tools-6.14-4.git.b2b7934e.el8.x86_64.rpm
+./BaseOS/Packages/rootfiles-8.1-22.el8.noarch.rpm
+./BaseOS/Packages/rpcbind-1.2.5-8.el8.x86_64.rpm
+./BaseOS/Packages/rootfiles-8.1-22.el8.noarch.rpm
+./BaseOS/Packages/rpcbind-1.2.5-8.el8.x86_64.rpm
+./BaseOS/Packages/rpm-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-apidocs-4.14.3-23.el8.noarch.rpm
+./BaseOS/Packages/rpm-apidocs-4.14.3-23.el8.noarch.rpm
+./BaseOS/Packages/rpm-build-libs-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-build-libs-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-build-libs-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-build-libs-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-cron-4.14.3-23.el8.noarch.rpm
+./BaseOS/Packages/rpm-cron-4.14.3-23.el8.noarch.rpm
+./BaseOS/Packages/rpm-devel-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-devel-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-devel-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-devel-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-libs-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-libs-4.14.3-23.el8.i686.rpm
+./BaseOS/Packages/rpm-libs-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-libs-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-ima-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-ima-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-prioreset-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-prioreset-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-selinux-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-selinux-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-syslog-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-syslog-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-systemd-inhibit-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-plugin-systemd-inhibit-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-sign-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rpm-sign-4.14.3-23.el8.x86_64.rpm
+./BaseOS/Packages/rsync-3.1.3-14.el8.x86_64.rpm
+./BaseOS/Packages/rsync-3.1.3-14.el8.x86_64.rpm
+./BaseOS/Packages/rsync-daemon-3.1.3-14.el8.noarch.rpm
+./BaseOS/Packages/rsync-daemon-3.1.3-14.el8.noarch.rpm
+./BaseOS/Packages/samba-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-client-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-client-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-client-libs-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-client-libs-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-client-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-client-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-common-4.15.5-5.el8.noarch.rpm
+./BaseOS/Packages/samba-common-4.15.5-5.el8.noarch.rpm
+./BaseOS/Packages/samba-common-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-common-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-common-tools-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-common-tools-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-krb5-printing-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-krb5-printing-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-libs-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-libs-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-pidl-4.15.5-5.el8.noarch.rpm
+./BaseOS/Packages/samba-pidl-4.15.5-5.el8.noarch.rpm
+./BaseOS/Packages/samba-test-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-test-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-test-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-test-libs-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-clients-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-clients-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-krb5-locator-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-krb5-locator-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-modules-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-modules-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winbind-modules-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-winbind-modules-4.15.5-5.el8.i686.rpm
+./BaseOS/Packages/samba-winexe-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/samba-winexe-4.15.5-5.el8.x86_64.rpm
+./BaseOS/Packages/sanlock-lib-3.8.4-3.el8.i686.rpm
+./BaseOS/Packages/sanlock-lib-3.8.4-3.el8.i686.rpm
+./BaseOS/Packages/sanlock-lib-3.8.4-3.el8.x86_64.rpm
+./BaseOS/Packages/sanlock-lib-3.8.4-3.el8.x86_64.rpm
+./BaseOS/Packages/sed-4.5-5.el8.x86_64.rpm
+./BaseOS/Packages/sed-4.5-5.el8.x86_64.rpm
+./BaseOS/Packages/selinux-policy-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-devel-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-devel-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-doc-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-doc-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-minimum-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-minimum-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-mls-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-mls-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-sandbox-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-sandbox-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-targeted-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/selinux-policy-targeted-3.14.3-95.el8.noarch.rpm
+./BaseOS/Packages/setools-console-4.3.0-3.el8.x86_64.rpm
+./BaseOS/Packages/setools-console-4.3.0-3.el8.x86_64.rpm
+./BaseOS/Packages/setserial-2.17-45.el8.x86_64.rpm
+./BaseOS/Packages/setup-2.12.2-6.el8.noarch.rpm
+./BaseOS/Packages/setserial-2.17-45.el8.x86_64.rpm
+./BaseOS/Packages/setup-2.12.2-6.el8.noarch.rpm
+./BaseOS/Packages/sg3_utils-1.44-5.el8.x86_64.rpm
+./BaseOS/Packages/sg3_utils-1.44-5.el8.x86_64.rpm
+./BaseOS/Packages/sg3_utils-libs-1.44-5.el8.i686.rpm
+./BaseOS/Packages/sg3_utils-libs-1.44-5.el8.i686.rpm
+./BaseOS/Packages/sg3_utils-libs-1.44-5.el8.x86_64.rpm
+./BaseOS/Packages/sg3_utils-libs-1.44-5.el8.x86_64.rpm
+./BaseOS/Packages/sgml-common-0.6.3-50.el8.noarch.rpm
+./BaseOS/Packages/sgml-common-0.6.3-50.el8.noarch.rpm
+./BaseOS/Packages/sgpio-1.2.0.10-21.el8.x86_64.rpm
+./BaseOS/Packages/sgpio-1.2.0.10-21.el8.x86_64.rpm
+./BaseOS/Packages/shadow-utils-4.6-16.el8.x86_64.rpm
+./BaseOS/Packages/shadow-utils-4.6-16.el8.x86_64.rpm
+./BaseOS/Packages/shadow-utils-subid-4.6-16.el8.i686.rpm
+./BaseOS/Packages/shadow-utils-subid-4.6-16.el8.i686.rpm
+./BaseOS/Packages/shadow-utils-subid-4.6-16.el8.x86_64.rpm
+./BaseOS/Packages/shadow-utils-subid-4.6-16.el8.x86_64.rpm
+./BaseOS/Packages/shared-mime-info-1.9-3.el8.x86_64.rpm
+./BaseOS/Packages/shared-mime-info-1.9-3.el8.x86_64.rpm
+./BaseOS/Packages/shim-ia32-15.5-2.el8.x86_64.rpm
+./BaseOS/Packages/shim-ia32-15.5-2.el8.x86_64.rpm
+./BaseOS/Packages/shim-x64-15.5-2.el8.x86_64.rpm
+./BaseOS/Packages/shim-x64-15.5-2.el8.x86_64.rpm
+./BaseOS/Packages/slang-2.3.2-3.el8.i686.rpm
+./BaseOS/Packages/slang-2.3.2-3.el8.i686.rpm
+./BaseOS/Packages/slang-2.3.2-3.el8.x86_64.rpm
+./BaseOS/Packages/slang-2.3.2-3.el8.x86_64.rpm
+./BaseOS/Packages/smartmontools-7.1-1.el8.x86_64.rpm
+./BaseOS/Packages/smartmontools-7.1-1.el8.x86_64.rpm
+./BaseOS/Packages/smc-tools-1.6.1-1.git7202891.el8.x86_64.rpm
+./BaseOS/Packages/smc-tools-1.6.1-1.git7202891.el8.x86_64.rpm
+./BaseOS/Packages/smc-tools-1.6.1-1.git7202891.el8.i686.rpm
+./BaseOS/Packages/smc-tools-1.6.1-1.git7202891.el8.i686.rpm
+./BaseOS/Packages/snappy-1.1.8-3.el8.i686.rpm
+./BaseOS/Packages/snappy-1.1.8-3.el8.i686.rpm
+./BaseOS/Packages/snappy-1.1.8-3.el8.x86_64.rpm
+./BaseOS/Packages/snappy-1.1.8-3.el8.x86_64.rpm
+./BaseOS/Packages/sos-4.2-15.el8.noarch.rpm
+./BaseOS/Packages/sos-4.2-15.el8.noarch.rpm
+./BaseOS/Packages/sos-audit-4.2-15.el8.noarch.rpm
+./BaseOS/Packages/sos-audit-4.2-15.el8.noarch.rpm
+./BaseOS/Packages/spax-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/spax-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-devel-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-devel-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-devel-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-devel-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-doc-3.26.0-15.el8.noarch.rpm
+./BaseOS/Packages/sqlite-doc-3.26.0-15.el8.noarch.rpm
+./BaseOS/Packages/sqlite-libs-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-libs-3.26.0-15.el8.i686.rpm
+./BaseOS/Packages/sqlite-libs-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/sqlite-libs-3.26.0-15.el8.x86_64.rpm
+./BaseOS/Packages/squashfs-tools-4.3-20.el8.x86_64.rpm
+./BaseOS/Packages/squashfs-tools-4.3-20.el8.x86_64.rpm
+./BaseOS/Packages/srp_daemon-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/srp_daemon-37.2-1.el8.x86_64.rpm
+./BaseOS/Packages/sssd-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ad-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ad-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-client-2.6.2-3.el8.i686.rpm
+./BaseOS/Packages/sssd-client-2.6.2-3.el8.i686.rpm
+./BaseOS/Packages/sssd-client-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-client-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-common-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-common-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-common-pac-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-common-pac-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-dbus-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-dbus-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ipa-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ipa-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-kcm-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-kcm-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-krb5-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-krb5-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-krb5-common-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-krb5-common-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ldap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-ldap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-nfs-idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-nfs-idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-polkit-rules-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-polkit-rules-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-proxy-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-proxy-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-tools-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-tools-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-winbind-idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/sssd-winbind-idmap-2.6.2-3.el8.x86_64.rpm
+./BaseOS/Packages/star-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/star-1.5.3-13.el8.x86_64.rpm
+./BaseOS/Packages/strace-5.13-4.el8.x86_64.rpm
+./BaseOS/Packages/strace-5.13-4.el8.x86_64.rpm
+./BaseOS/Packages/stunnel-5.56-5.el8_3.x86_64.rpm
+./BaseOS/Packages/stunnel-5.56-5.el8_3.x86_64.rpm
+./BaseOS/Packages/subscription-manager-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/subscription-manager-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/subscription-manager-cockpit-1.28.29-3.el8.noarch.rpm
+./BaseOS/Packages/subscription-manager-cockpit-1.28.29-3.el8.noarch.rpm
+./BaseOS/Packages/subscription-manager-plugin-ostree-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/subscription-manager-plugin-ostree-1.28.29-3.el8.x86_64.rpm
+./BaseOS/Packages/subscription-manager-rhsm-certificates-1.28.29-3.el8.x86_64.rp                                                                             m
+./BaseOS/Packages/subscription-manager-rhsm-certificates-1.28.29-3.el8.x86_64.rp                                                                             m
+./BaseOS/Packages/sudo-1.8.29-8.el8.x86_64.rpm
+./BaseOS/Packages/sudo-1.8.29-8.el8.x86_64.rpm
+./BaseOS/Packages/symlinks-1.4-19.el8.x86_64.rpm
+./BaseOS/Packages/symlinks-1.4-19.el8.x86_64.rpm
+./BaseOS/Packages/syslinux-6.04-5.el8.x86_64.rpm
+./BaseOS/Packages/syslinux-6.04-5.el8.x86_64.rpm
+./BaseOS/Packages/syslinux-extlinux-6.04-5.el8.x86_64.rpm
+./BaseOS/Packages/syslinux-extlinux-6.04-5.el8.x86_64.rpm
+./BaseOS/Packages/syslinux-extlinux-nonlinux-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/syslinux-extlinux-nonlinux-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/syslinux-nonlinux-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/syslinux-nonlinux-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/syslinux-tftpboot-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/syslinux-tftpboot-6.04-5.el8.noarch.rpm
+./BaseOS/Packages/system-storage-manager-1.4-1.el8.noarch.rpm
+./BaseOS/Packages/system-storage-manager-1.4-1.el8.noarch.rpm
+./BaseOS/Packages/systemd-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-container-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-container-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-container-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-container-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-devel-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-devel-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-devel-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-devel-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-journal-remote-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-journal-remote-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-libs-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-libs-239-58.el8.i686.rpm
+./BaseOS/Packages/systemd-libs-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-libs-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-pam-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-pam-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-tests-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-tests-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-udev-239-58.el8.x86_64.rpm
+./BaseOS/Packages/systemd-udev-239-58.el8.x86_64.rpm
+./BaseOS/Packages/tar-1.30-5.el8.x86_64.rpm
+./BaseOS/Packages/tar-1.30-5.el8.x86_64.rpm
+./BaseOS/Packages/target-restore-2.1.74-1.el8.noarch.rpm
+./BaseOS/Packages/target-restore-2.1.74-1.el8.noarch.rpm
+./BaseOS/Packages/tboot-1.10.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tboot-1.10.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tcl-8.6.8-2.el8.x86_64.rpm
+./BaseOS/Packages/tcl-8.6.8-2.el8.x86_64.rpm
+./BaseOS/Packages/tcl-devel-8.6.8-2.el8.i686.rpm
+./BaseOS/Packages/tcl-devel-8.6.8-2.el8.i686.rpm
+./BaseOS/Packages/tcl-devel-8.6.8-2.el8.x86_64.rpm
+./BaseOS/Packages/tcl-devel-8.6.8-2.el8.x86_64.rpm
+./BaseOS/Packages/tcl-doc-8.6.8-2.el8.noarch.rpm
+./BaseOS/Packages/tcl-doc-8.6.8-2.el8.noarch.rpm
+./BaseOS/Packages/tdb-tools-1.4.4-1.el8.x86_64.rpm
+./BaseOS/Packages/tdb-tools-1.4.4-1.el8.x86_64.rpm
+./BaseOS/Packages/teamd-1.31-2.el8.i686.rpm
+./BaseOS/Packages/teamd-1.31-2.el8.i686.rpm
+./BaseOS/Packages/teamd-1.31-2.el8.x86_64.rpm
+./BaseOS/Packages/teamd-1.31-2.el8.x86_64.rpm
+./BaseOS/Packages/time-1.9-3.el8.x86_64.rpm
+./BaseOS/Packages/time-1.9-3.el8.x86_64.rpm
+./BaseOS/Packages/timedatex-0.5-3.el8.x86_64.rpm
+./BaseOS/Packages/timedatex-0.5-3.el8.x86_64.rpm
+./BaseOS/Packages/tmpwatch-2.11-14.el8.x86_64.rpm
+./BaseOS/Packages/tmpwatch-2.11-14.el8.x86_64.rpm
+./BaseOS/Packages/tmux-2.7-1.el8.x86_64.rpm
+./BaseOS/Packages/tmux-2.7-1.el8.x86_64.rpm
+./BaseOS/Packages/tpm-quote-tools-1.0.3-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm-quote-tools-1.0.3-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm-tools-1.3.9.2-1.el8.i686.rpm
+./BaseOS/Packages/tpm-tools-1.3.9.2-1.el8.i686.rpm
+./BaseOS/Packages/tpm-tools-1.3.9.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tpm-tools-1.3.9.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tpm-tools-pkcs11-1.3.9.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tpm-tools-pkcs11-1.3.9.2-1.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-abrmd-2.3.3-2.el8.i686.rpm
+./BaseOS/Packages/tpm2-abrmd-2.3.3-2.el8.i686.rpm
+./BaseOS/Packages/tpm2-abrmd-2.3.3-2.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-abrmd-2.3.3-2.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-abrmd-selinux-2.3.1-1.el8.noarch.rpm
+./BaseOS/Packages/tpm2-abrmd-selinux-2.3.1-1.el8.noarch.rpm
+./BaseOS/Packages/tpm2-tools-4.1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tools-4.1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tss-2.3.2-4.el8.i686.rpm
+./BaseOS/Packages/tpm2-tss-2.3.2-4.el8.i686.rpm
+./BaseOS/Packages/tpm2-tss-2.3.2-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tss-2.3.2-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tss-devel-2.3.2-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tss-devel-2.3.2-4.el8.x86_64.rpm
+./BaseOS/Packages/tpm2-tss-devel-2.3.2-4.el8.i686.rpm
+./BaseOS/Packages/tpm2-tss-devel-2.3.2-4.el8.i686.rpm
+./BaseOS/Packages/trace-cmd-2.7-10.el8.x86_64.rpm
+./BaseOS/Packages/trace-cmd-2.7-10.el8.x86_64.rpm
+./BaseOS/Packages/traceroute-2.1.0-6.el8.x86_64.rpm
+./BaseOS/Packages/traceroute-2.1.0-6.el8.x86_64.rpm
+./BaseOS/Packages/tree-1.7.0-15.el8.x86_64.rpm
+./BaseOS/Packages/tree-1.7.0-15.el8.x86_64.rpm
+./BaseOS/Packages/trousers-0.3.15-1.el8.x86_64.rpm
+./BaseOS/Packages/trousers-0.3.15-1.el8.x86_64.rpm
+./BaseOS/Packages/trousers-lib-0.3.15-1.el8.i686.rpm
+./BaseOS/Packages/trousers-lib-0.3.15-1.el8.i686.rpm
+./BaseOS/Packages/trousers-lib-0.3.15-1.el8.x86_64.rpm
+./BaseOS/Packages/trousers-lib-0.3.15-1.el8.x86_64.rpm
+./BaseOS/Packages/tss2-1.6.0-1.el8.i686.rpm
+./BaseOS/Packages/tss2-1.6.0-1.el8.i686.rpm
+./BaseOS/Packages/tss2-1.6.0-1.el8.x86_64.rpm
+./BaseOS/Packages/tss2-1.6.0-1.el8.x86_64.rpm
+./BaseOS/Packages/tuna-0.17-1.el8.noarch.rpm
+./BaseOS/Packages/tuna-0.17-1.el8.noarch.rpm
+./BaseOS/Packages/tuned-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-atomic-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-atomic-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-compat-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-compat-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-cpu-partitioning-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-cpu-partitioning-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-mssql-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-mssql-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-oracle-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tuned-profiles-oracle-2.18.0-2.el8.noarch.rpm
+./BaseOS/Packages/tzdata-2022a-1.el8.noarch.rpm
+./BaseOS/Packages/tzdata-2022a-1.el8.noarch.rpm
+./BaseOS/Packages/units-2.17-5.el8.x86_64.rpm
+./BaseOS/Packages/units-2.17-5.el8.x86_64.rpm
+./BaseOS/Packages/unzip-6.0-46.el8.x86_64.rpm
+./BaseOS/Packages/unzip-6.0-46.el8.x86_64.rpm
+./BaseOS/Packages/usb_modeswitch-2.5.2-1.el8.x86_64.rpm
+./BaseOS/Packages/usb_modeswitch-2.5.2-1.el8.x86_64.rpm
+./BaseOS/Packages/usb_modeswitch-data-20191128-1.el8.noarch.rpm
+./BaseOS/Packages/usb_modeswitch-data-20191128-1.el8.noarch.rpm
+./BaseOS/Packages/usbutils-010-3.el8.x86_64.rpm
+./BaseOS/Packages/usbutils-010-3.el8.x86_64.rpm
+./BaseOS/Packages/usermode-1.113-2.el8.x86_64.rpm
+./BaseOS/Packages/usermode-1.113-2.el8.x86_64.rpm
+./BaseOS/Packages/userspace-rcu-0.10.1-4.el8.x86_64.rpm
+./BaseOS/Packages/userspace-rcu-0.10.1-4.el8.x86_64.rpm
+./BaseOS/Packages/userspace-rcu-0.10.1-4.el8.i686.rpm
+./BaseOS/Packages/userspace-rcu-0.10.1-4.el8.i686.rpm
+./BaseOS/Packages/util-linux-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/util-linux-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/util-linux-user-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/util-linux-user-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/uuidd-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/uuidd-2.32.1-35.el8.x86_64.rpm
+./BaseOS/Packages/vdo-6.2.6.14-14.el8.x86_64.rpm
+./BaseOS/Packages/vdo-6.2.6.14-14.el8.x86_64.rpm
+./BaseOS/Packages/vdo-support-6.2.6.14-14.el8.x86_64.rpm
+./BaseOS/Packages/vdo-support-6.2.6.14-14.el8.x86_64.rpm
+./BaseOS/Packages/veritysetup-2.3.7-2.el8.x86_64.rpm
+./BaseOS/Packages/veritysetup-2.3.7-2.el8.x86_64.rpm
+./BaseOS/Packages/vim-minimal-8.0.1763-16.el8_5.13.x86_64.rpm
+./BaseOS/Packages/vim-minimal-8.0.1763-16.el8_5.13.x86_64.rpm
+./BaseOS/Packages/virt-what-1.18-13.el8.x86_64.rpm
+./BaseOS/Packages/virt-what-1.18-13.el8.x86_64.rpm
+./BaseOS/Packages/vm-dump-metrics-1.1-5.el8.i686.rpm
+./BaseOS/Packages/vm-dump-metrics-1.1-5.el8.i686.rpm
+./BaseOS/Packages/vm-dump-metrics-1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/vm-dump-metrics-1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/vm-dump-metrics-devel-1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/vm-dump-metrics-devel-1.1-5.el8.x86_64.rpm
+./BaseOS/Packages/vm-dump-metrics-devel-1.1-5.el8.i686.rpm
+./BaseOS/Packages/vm-dump-metrics-devel-1.1-5.el8.i686.rpm
+./BaseOS/Packages/watchdog-5.15-2.el8.x86_64.rpm
+./BaseOS/Packages/watchdog-5.15-2.el8.x86_64.rpm
+./BaseOS/Packages/which-2.21-17.el8.x86_64.rpm
+./BaseOS/Packages/which-2.21-17.el8.x86_64.rpm
+./BaseOS/Packages/words-3.0-28.el8.noarch.rpm
+./BaseOS/Packages/words-3.0-28.el8.noarch.rpm
+./BaseOS/Packages/wpa_supplicant-2.10-1.el8.x86_64.rpm
+./BaseOS/Packages/wpa_supplicant-2.10-1.el8.x86_64.rpm
+./BaseOS/Packages/x3270-3.6ga5-1.el8.x86_64.rpm
+./BaseOS/Packages/x3270-3.6ga5-1.el8.x86_64.rpm
+./BaseOS/Packages/x3270-text-3.6ga5-1.el8.x86_64.rpm
+./BaseOS/Packages/x3270-text-3.6ga5-1.el8.x86_64.rpm
+./BaseOS/Packages/xdelta-3.1.0-4.el8.x86_64.rpm
+./BaseOS/Packages/xdelta-3.1.0-4.el8.x86_64.rpm
+./BaseOS/Packages/xfsdump-3.1.8-4.el8.x86_64.rpm
+./BaseOS/Packages/xfsdump-3.1.8-4.el8.x86_64.rpm
+./BaseOS/Packages/xfsprogs-5.0.0-10.el8.i686.rpm
+./BaseOS/Packages/xfsprogs-5.0.0-10.el8.i686.rpm
+./BaseOS/Packages/xfsprogs-5.0.0-10.el8.x86_64.rpm
+./BaseOS/Packages/xfsprogs-5.0.0-10.el8.x86_64.rpm
+./BaseOS/Packages/xfsprogs-devel-5.0.0-10.el8.i686.rpm
+./BaseOS/Packages/xfsprogs-devel-5.0.0-10.el8.i686.rpm
+./BaseOS/Packages/xfsprogs-devel-5.0.0-10.el8.x86_64.rpm
+./BaseOS/Packages/xfsprogs-devel-5.0.0-10.el8.x86_64.rpm
+./BaseOS/Packages/xml-common-0.6.3-50.el8.noarch.rpm
+./BaseOS/Packages/xml-common-0.6.3-50.el8.noarch.rpm
+./BaseOS/Packages/xmlrpc-c-1.51.0-6.el8.i686.rpm
+./BaseOS/Packages/xmlrpc-c-1.51.0-6.el8.i686.rpm
+./BaseOS/Packages/xmlrpc-c-1.51.0-6.el8.x86_64.rpm
+./BaseOS/Packages/xmlrpc-c-1.51.0-6.el8.x86_64.rpm
+./BaseOS/Packages/xmlrpc-c-client-1.51.0-6.el8.i686.rpm
+./BaseOS/Packages/xmlrpc-c-client-1.51.0-6.el8.i686.rpm
+./BaseOS/Packages/xmlrpc-c-client-1.51.0-6.el8.x86_64.rpm
+./BaseOS/Packages/xmlrpc-c-client-1.51.0-6.el8.x86_64.rpm
+./BaseOS/Packages/xz-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/xz-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/xz-devel-5.2.4-3.el8.i686.rpm
+./BaseOS/Packages/xz-devel-5.2.4-3.el8.i686.rpm
+./BaseOS/Packages/xz-devel-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/xz-devel-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/xz-libs-5.2.4-3.el8.i686.rpm
+./BaseOS/Packages/xz-libs-5.2.4-3.el8.i686.rpm
+./BaseOS/Packages/xz-libs-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/xz-libs-5.2.4-3.el8.x86_64.rpm
+./BaseOS/Packages/yum-4.7.0-8.el8.noarch.rpm
+./BaseOS/Packages/yum-4.7.0-8.el8.noarch.rpm
+./BaseOS/Packages/yum-utils-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/yum-utils-4.0.21-11.el8.noarch.rpm
+./BaseOS/Packages/zip-3.0-23.el8.x86_64.rpm
+./BaseOS/Packages/zip-3.0-23.el8.x86_64.rpm
+./BaseOS/Packages/zlib-1.2.11-18.el8_5.i686.rpm
+./BaseOS/Packages/zlib-1.2.11-18.el8_5.i686.rpm
+./BaseOS/Packages/zlib-1.2.11-18.el8_5.x86_64.rpm
+./BaseOS/Packages/zlib-1.2.11-18.el8_5.x86_64.rpm
+./BaseOS/Packages/zlib-devel-1.2.11-18.el8_5.x86_64.rpm
+./BaseOS/Packages/zlib-devel-1.2.11-18.el8_5.x86_64.rpm
+./BaseOS/Packages/zlib-devel-1.2.11-18.el8_5.i686.rpm
+./BaseOS/Packages/zlib-devel-1.2.11-18.el8_5.i686.rpm
+./BaseOS/Packages/zsh-5.5.1-9.el8.x86_64.rpm
+./BaseOS/Packages/zsh-5.5.1-9.el8.x86_64.rpm
+./BaseOS/repodata/
+./BaseOS/repodata/205e2655f488a11dd6d171259615eb5f3b3c3e4735be7b38945cb13dfa6bc8                                                                             47-primary.xml.gz
+./BaseOS/repodata/
+./BaseOS/repodata/205e2655f488a11dd6d171259615eb5f3b3c3e4735be7b38945cb13dfa6bc8                                                                             47-primary.xml.gz
+./BaseOS/repodata/2e284baad7b9ad132503f7a338b4213b1b6fb444297bdf807b0fe33e78e11b                                                                             0b-comps-BaseOS.x86_64.xml
+./BaseOS/repodata/2e284baad7b9ad132503f7a338b4213b1b6fb444297bdf807b0fe33e78e11b                                                                             0b-comps-BaseOS.x86_64.xml
+./BaseOS/repodata/4e33e22139c9b24ee8a4c526430e8936489dcecd3d1a635d86f48ff32d188f                                                                             ac-productid.gz
+./BaseOS/repodata/52ebe4c35f4bb01e7b042ba85a4eaa052fd28409677253080e604a99118a16                                                                             42-other.xml.gz
+./BaseOS/repodata/4e33e22139c9b24ee8a4c526430e8936489dcecd3d1a635d86f48ff32d188f                                                                             ac-productid.gz
+./BaseOS/repodata/52ebe4c35f4bb01e7b042ba85a4eaa052fd28409677253080e604a99118a16                                                                             42-other.xml.gz
+./BaseOS/repodata/5a38280c5e0005d6f187cb838be6ceb41c0736d3a0dbec36727edd998536d8                                                                             6d-filelists.xml.gz
+./BaseOS/repodata/5a38280c5e0005d6f187cb838be6ceb41c0736d3a0dbec36727edd998536d8                                                                             6d-filelists.xml.gz
+./BaseOS/repodata/9e025ed6fd9c5b0aece33498f7083e46260a84d79c83c24d2de6e243e6e6f4                                                                             1d-comps-BaseOS.x86_64.xml.gz
+./BaseOS/repodata/9e025ed6fd9c5b0aece33498f7083e46260a84d79c83c24d2de6e243e6e6f4                                                                             1d-comps-BaseOS.x86_64.xml.gz
+./BaseOS/repodata/TRANS.TBL
+./BaseOS/repodata/productid
+./BaseOS/repodata/TRANS.TBL
+./BaseOS/repodata/repomd.xml
+./EFI/
+./EFI/BOOT/
+./EFI/BOOT/BOOT.conf
+./EFI/BOOT/BOOTIA32.EFI
+./BaseOS/repodata/productid
+./BaseOS/repodata/repomd.xml
+./EFI/
+./EFI/BOOT/
+./EFI/BOOT/BOOT.conf
+./EFI/BOOT/BOOTIA32.EFI
+./EFI/BOOT/BOOTX64.EFI
+./EFI/BOOT/BOOTX64.EFI
+./EFI/BOOT/TRANS.TBL
+./EFI/BOOT/fonts/
+./EFI/BOOT/fonts/TRANS.TBL
+./EFI/BOOT/TRANS.TBL
+./EFI/BOOT/fonts/unicode.pf2
+./EFI/BOOT/fonts/
+./EFI/BOOT/fonts/TRANS.TBL
+./EFI/BOOT/fonts/unicode.pf2
+./EFI/BOOT/grub.cfg
+./EFI/BOOT/grubia32.efi
+./EFI/BOOT/grub.cfg
+./EFI/BOOT/grubia32.efi
+./EFI/BOOT/grubx64.efi
+./EFI/BOOT/grubx64.efi
+./EFI/BOOT/mmia32.efi
+./EFI/BOOT/mmia32.efi
+./EFI/BOOT/mmx64.efi
+./EFI/BOOT/mmx64.efi
+./EULA
+./GPL
+./EULA
+./GPL
+./RPM-GPG-KEY-redhat-beta
+./RPM-GPG-KEY-redhat-release
+./TRANS.TBL
+./RPM-GPG-KEY-redhat-beta
+./RPM-GPG-KEY-redhat-release
+./extra_files.json
+./images/
+./images/TRANS.TBL
+./images/efiboot.img
+./TRANS.TBL
+./extra_files.json
+./images/
+./images/TRANS.TBL
+./images/efiboot.img
+./images/install.img
+./images/install.img
+./images/pxeboot/
+./images/pxeboot/TRANS.TBL
+./images/pxeboot/initrd.img
+./images/pxeboot/
+./images/pxeboot/TRANS.TBL
+./images/pxeboot/initrd.img
+./images/pxeboot/vmlinuz
+./images/pxeboot/vmlinuz
+./isolinux/
+./isolinux/TRANS.TBL
+./isolinux/boot.cat
+./isolinux/
+./isolinux/TRANS.TBL
+./isolinux/boot.cat
+./isolinux/boot.msg
+./isolinux/grub.conf
+./isolinux/initrd.img
+./isolinux/boot.msg
+./isolinux/grub.conf
+./isolinux/initrd.img
+./isolinux/isolinux.bin
+./isolinux/isolinux.bin
+./isolinux/isolinux.cfg
+./isolinux/ldlinux.c32
+./isolinux/isolinux.cfg
+./isolinux/ldlinux.c32
+./isolinux/libcom32.c32
+./isolinux/libcom32.c32
+./isolinux/libutil.c32
+./isolinux/libutil.c32
+./isolinux/memtest
+./isolinux/memtest
+./isolinux/splash.png
+./isolinux/vesamenu.c32
+./isolinux/splash.png
+./isolinux/vmlinuz
+./isolinux/vesamenu.c32
+./isolinux/vmlinuz
+./media.repo
+./media.repo
+[root@localhost disk1]# ls -l /local_repo/
+total 52
+dr-xr-xr-x. 4 root root    38 Jun 28 03:50 AppStream
+dr-xr-xr-x. 4 root root    38 Jun 28 03:50 BaseOS
+dr-xr-xr-x. 3 root root    18 Jun 28 03:50 EFI
+-r--r--r--. 1 root root  8154 Jun 28 03:50 EULA
+-r--r--r--. 1 root root  1455 Jun 28 03:50 extra_files.json
+-r--r--r--. 1 root root 18092 Jun 28 03:50 GPL
+dr-xr-xr-x. 3 root root    76 Jun 28 03:50 images
+dr-xr-xr-x. 2 root root   256 Jun 28 03:50 isolinux
+-r--r--r--. 1 root root   103 Jun 28 03:49 media.repo
+-r--r--r--. 1 root root  1669 Jun 28 03:50 RPM-GPG-KEY-redhat-beta
+-r--r--r--. 1 root root  5135 Jun 28 03:50 RPM-GPG-KEY-redhat-release
+-r--r--r--. 1 root root  1796 Jun 28 03:50 TRANS.TBL
+[root@localhost disk1]#
+[root@localhost disk1]#
+[root@localhost disk1]#
+[root@localhost disk1]# vim /etc/yum.repos.d/local-dvd.repo
+[root@localhost disk1]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                                 repo name
+AppStream                               AppStream
+BaseOS                                  BaseOS
+[root@localhost disk1]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                             repo name                            status
+AppStream                           AppStream                            enabled
+BaseOS                              BaseOS                               enabled
+[root@localhost disk1]# yum install createrepo yum-utils -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+AppStream                                        98 MB/s | 7.5 MB     00:00
+BaseOS                                           96 MB/s | 7.5 MB     00:00
+Last metadata expiration check: 0:00:03 ago on Tue 08 Nov 2022 02:39:18 PM EST.
+No match for argument: yum-utils
+Error: Unable to find a match: yum-utils
+[root@localhost disk1]# yum install createrepo  yum-utils
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:01:00 ago on Tue 08 Nov 2022 02:39:18 PM EST.
+No match for argument: yum-utils
+Error: Unable to find a match: yum-utils
+[root@localhost disk1]# yum install createrepo  -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:01:22 ago on Tue 08 Nov 2022 02:39:18 PM EST.
+Dependencies resolved.
+================================================================================
+ Package                 Architecture Version             Repository       Size
+================================================================================
+Installing:
+ createrepo_c            x86_64       0.17.7-5.el8        AppStream        89 k
+Installing dependencies:
+ createrepo_c-libs       x86_64       0.17.7-5.el8        AppStream       116 k
+ drpm                    x86_64       0.4.1-3.el8         AppStream        68 k
+
+Transaction Summary
+================================================================================
+Install  3 Packages
+
+Total size: 274 k
+Installed size: 580 k
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : drpm-0.4.1-3.el8.x86_64                                1/3
+  Installing       : createrepo_c-libs-0.17.7-5.el8.x86_64                  2/3
+  Installing       : createrepo_c-0.17.7-5.el8.x86_64                       3/3
+  Running scriptlet: createrepo_c-0.17.7-5.el8.x86_64                       3/3
+  Verifying        : createrepo_c-0.17.7-5.el8.x86_64                       1/3
+  Verifying        : createrepo_c-libs-0.17.7-5.el8.x86_64                  2/3
+  Verifying        : drpm-0.4.1-3.el8.x86_64                                3/3
+Installed products updated.
+
+Installed:
+  createrepo_c-0.17.7-5.el8.x86_64     createrepo_c-libs-0.17.7-5.el8.x86_64
+  drpm-0.4.1-3.el8.x86_64
+
+Complete!
+[root@localhost disk1]# yum install yum-utils
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:01:49 ago on Tue 08 Nov 2022 02:39:18 PM EST.
+No match for argument: yum-utils
+Error: Unable to find a match: yum-utils
+[root@localhost disk1]# ^C
+[root@localhost disk1]# dnf install yum-utils
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:03:35 ago on Tue 08 Nov 2022 02:39:18 PM EST.
+No match for argument: yum-utils
+Error: Unable to find a match: yum-utils
+[root@localhost disk1]# createrepo /local_repo/
+Directory walk started
+Directory walk done - 8323 packages
+Temporary output repo path: /local_repo/.repodata/
+Preparing sqlite DBs
+Pool started (with 5 workers)
+Pool finished
+[root@localhost disk1]# yum clean all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+14 files removed
+[root@localhost disk1]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                                 repo name
+AppStream                               AppStream
+BaseOS                                  BaseOS
+[root@localhost disk1]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                             repo name                            status
+AppStream                           AppStream                            enabled
+BaseOS                              BaseOS                               enabled
+[root@localhost disk1]#
+[root@localhost disk1]#
+[root@localhost disk1]#
+[root@localhost disk1]# ls /local_repo/repodata/
+14cef80ce03a464f43f169a4a8656d9a6412b19397fea49e1717c9703819f256-other.xml.gz
+232b1fb4d5d583a0c2b707b5fc0ff622637dc4f3c384a7bbeb9051f1b3fa35b0-filelists.xml.g                                                                             z
+2d519b975eb752f02adebbcce1523cf258a3f72b8e2cb7e5e14e1fffa9ad6fc5-primary.sqlite.                                                                             bz2
+39d25d4f909eda95315e1a2b8a3c1545e72a58933b191b001ab679afafbcafc0-other.sqlite.bz                                                                             2
+49c0ad7fc68c151f91e1f8a1c2b6ce381e9ea51e7dddf1bd9758ddcfcc974000-primary.xml.gz
+c673383b7c9dd53ada41acb3921cae26c89378054235f54122b41a351b3479d1-modules.yaml.gz
+d6232b4e222a1c2ca74d9f3453d717a3ac8c5c8046e4b32463667f9675d09705-filelists.sqlit                                                                             e.bz2
+repomd.xml
+[root@localhost disk1]# yum install httpd -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+AppStream                                        95 MB/s | 7.5 MB     00:00
+BaseOS                                           96 MB/s | 7.5 MB     00:00
+Last metadata expiration check: 0:00:03 ago on Tue 08 Nov 2022 02:49:12 PM EST.
+Error:
+ Problem: cannot install the best candidate for the job
+  - nothing provides system-logos(httpd-logo-ng) needed by httpd-2.4.37-47.modul                                                                             e+el8.6.0+14529+083145da.1.x86_64
+(try to add '--skip-broken' to skip uninstallable packages or '--nobest' to use                                                                              not only best candidate packages)
+[root@localhost disk1]# vim /etc/yum.repos.d/local-dvd.repo
+[root@localhost disk1]# yum install yum-utils
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+AppStream                                       3.1 MB/s | 3.2 kB     00:00
+BaseOS                                           16 MB/s | 2.4 MB     00:00
+Dependencies resolved.
+================================================================================
+ Package           Architecture   Version                  Repository      Size
+================================================================================
+Installing:
+ yum-utils         noarch         4.0.21-11.el8            BaseOS          73 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total size: 73 k
+Installed size: 23 k
+Is this ok [y/N]: y
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : yum-utils-4.0.21-11.el8.noarch                         1/1
+  Running scriptlet: yum-utils-4.0.21-11.el8.noarch                         1/1
+  Verifying        : yum-utils-4.0.21-11.el8.noarch                         1/1
+Installed products updated.
+
+Installed:
+  yum-utils-4.0.21-11.el8.noarch
+
+Complete!
+[root@localhost disk1]# yum install httpd -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:00:14 ago on Tue 08 Nov 2022 02:50:24 PM EST.
+Dependencies resolved.
+================================================================================
+ Package       Arch   Version                                   Repo       Size
+================================================================================
+Installing:
+ httpd         x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream 1.4 M
+Installing dependencies:
+ apr           x86_64 1.6.3-12.el8                              AppStream 130 k
+ apr-util      x86_64 1.6.1-6.el8                               AppStream 105 k
+ httpd-filesystem
+               noarch 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream  41 k
+ httpd-tools   x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1 AppStream 108 k
+ mod_http2     x86_64 1.15.7-5.module+el8.6.0+13996+01710940    AppStream 155 k
+ redhat-logos-httpd
+               noarch 84.5-1.el8                                BaseOS     29 k
+Installing weak dependencies:
+ apr-util-bdb  x86_64 1.6.1-6.el8                               AppStream  25 k
+ apr-util-openssl
+               x86_64 1.6.1-6.el8                               AppStream  27 k
+Enabling module streams:
+ httpd                2.4
+
+Transaction Summary
+================================================================================
+Install  9 Packages
+
+Total size: 2.0 M
+Installed size: 5.4 M
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : apr-1.6.3-12.el8.x86_64                                1/9
+  Running scriptlet: apr-1.6.3-12.el8.x86_64                                1/9
+  Installing       : apr-util-bdb-1.6.1-6.el8.x86_64                        2/9
+  Installing       : apr-util-openssl-1.6.1-6.el8.x86_64                    3/9
+  Installing       : apr-util-1.6.1-6.el8.x86_64                            4/9
+  Running scriptlet: apr-util-1.6.1-6.el8.x86_64                            4/9
+  Installing       : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   5/9
+  Installing       : redhat-logos-httpd-84.5-1.el8.noarch                   6/9
+  Running scriptlet: httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Installing       : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Running scriptlet: httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Verifying        : apr-1.6.3-12.el8.x86_64                                1/9
+  Verifying        : apr-util-1.6.1-6.el8.x86_64                            2/9
+  Verifying        : apr-util-bdb-1.6.1-6.el8.x86_64                        3/9
+  Verifying        : apr-util-openssl-1.6.1-6.el8.x86_64                    4/9
+  Verifying        : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   5/9
+  Verifying        : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   6/9
+  Verifying        : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   7/9
+  Verifying        : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Verifying        : redhat-logos-httpd-84.5-1.el8.noarch                   9/9
+Installed products updated.
+
+Installed:
+  apr-1.6.3-12.el8.x86_64
+  apr-util-1.6.1-6.el8.x86_64
+  apr-util-bdb-1.6.1-6.el8.x86_64
+  apr-util-openssl-1.6.1-6.el8.x86_64
+  httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  httpd-filesystem-2.4.37-47.module+el8.6.0+14529+083145da.1.noarch
+  httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86_64
+  redhat-logos-httpd-84.5-1.el8.noarch
+
+Complete!
+[root@localhost disk1]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; disabled; vendor pres>
+   Active: inactive (dead)
+     Docs: man:httpd.service(8)
+[root@localhost disk1]# systemctl enable httpd.service
+Created symlink /etc/systemd/system/multi-user.target.wants/httpd.service → /usr                                                                             /lib/systemd/system/httpd.service.
+[root@localhost disk1]# systemctl start httpd.service
+[root@localhost disk1]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; enabled; vendor prese>
+   Active: active (running) since Tue 2022-11-08 14:51:37 EST; 18s ago
+     Docs: man:httpd.service(8)
+ Main PID: 38782 (httpd)
+   Status: "Running, listening on: port 80"
+    Tasks: 213 (limit: 11222)
+   Memory: 25.6M
+   CGroup: /system.slice/httpd.service
+           ├─38782 /usr/sbin/httpd -DFOREGROUND
+           ├─38783 /usr/sbin/httpd -DFOREGROUND
+           ├─38784 /usr/sbin/httpd -DFOREGROUND
+           ├─38785 /usr/sbin/httpd -DFOREGROUND
+           └─38786 /usr/sbin/httpd -DFOREGROUND
+
+Nov 08 14:51:37 localhost.localdomain systemd[1]: Starting The Apache HTTP Serv>
+Nov 08 14:51:37 localhost.localdomain httpd[38782]: AH00558: httpd: Could not r>
+Nov 08 14:51:37 localhost.localdomain systemd[1]: Started The Apache HTTP Serve>
+Nov 08 14:51:37 localhost.localdomain httpd[38782]: Server configured, listenin>
+[root@localhost disk1]# firewall-cmd --list-all
+public (active)
+  target: default
+  icmp-block-inversion: no
+  interfaces: enp0s3
+  sources:
+  services: cockpit dhcpv6-client ssh
+  ports:
+  protocols:
+  forward: no
+  masquerade: no
+  forward-ports:
+  source-ports:
+  icmp-blocks:
+  rich rules:
+[root@localhost disk1]# firewall-cmd --permanent --add-service=http
+success
+[root@localhost disk1]# firewall-cmd --permanent --add-service=https
+success
+[root@localhost disk1]# firewall-cmd --reload
+success
+[root@localhost disk1]# ip a s
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group defaul                                                                             t qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host
+       valid_lft forever preferred_lft forever
+2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP gr                                                                             oup default qlen 1000
+    link/ether 08:00:27:2b:8e:42 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.32/24 brd 192.168.1.255 scope global dynamic noprefixroute en                                                                             p0s3
+       valid_lft 41217sec preferred_lft 41217sec
+    inet6 fe80::a00:27ff:fe2b:8e42/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+3: virbr0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN                                                                              group default qlen 1000
+    link/ether 52:54:00:15:a6:25 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
+       valid_lft forever preferred_lft forever
+[root@localhost disk1]# vim /etc/httpd/conf/httpd.conf
+[root@localhost disk1]# systemctl restart httpd.service
+[root@localhost disk1]# systemctl status httpd.service
+● httpd.service - The Apache HTTP Server
+   Loaded: loaded (/usr/lib/systemd/system/httpd.service; enabled; vendor prese>
+   Active: active (running) since Tue 2022-11-08 15:00:15 EST; 32s ago
+     Docs: man:httpd.service(8)
+ Main PID: 39183 (httpd)
+   Status: "Running, listening on: port 80"
+    Tasks: 213 (limit: 11222)
+   Memory: 25.0M
+   CGroup: /system.slice/httpd.service
+           ├─39183 /usr/sbin/httpd -DFOREGROUND
+           ├─39184 /usr/sbin/httpd -DFOREGROUND
+           ├─39185 /usr/sbin/httpd -DFOREGROUND
+           ├─39186 /usr/sbin/httpd -DFOREGROUND
+           └─39187 /usr/sbin/httpd -DFOREGROUND
+
+Nov 08 15:00:15 localhost.localdomain systemd[1]: Starting The Apache HTTP Serv>
+Nov 08 15:00:15 localhost.localdomain httpd[39183]: AH00558: httpd: Could not r>
+Nov 08 15:00:15 localhost.localdomain systemd[1]: Started The Apache HTTP Serve>
+Nov 08 15:00:15 localhost.localdomain httpd[39183]: Server configured, listenin>
+[root@localhost disk1]# cd /etc/httpd/conf
+[root@localhost conf]# ls
+httpd.conf  magic
+[root@localhost conf]# cd /etc/httpd/conf.d
+[root@localhost conf.d]# ls
+autoindex.conf  README  userdir.conf  welcome.conf
+[root@localhost conf.d]# cd
+[root@localhost ~]# rm -rf /etc/httpd/conf.d/welcome.conf
+[root@localhost ~]# httpd -t
+AH00558: httpd: Could not reliably determine the server's fully qualified domain                                                                              name, using localhost.localdomain. Set the 'ServerName' directive globally to s                                                                             uppress this message
+Syntax OK
+[root@localhost ~]# ls -Za /var/www/html/
+system_u:object_r:httpd_sys_content_t:s0 .
+system_u:object_r:httpd_sys_content_t:s0 ..
+[root@localhost ~]# ls -Za /local_repo/
+unconfined_u:object_r:default_t:s0 .
+       system_u:object_r:root_t:s0 ..
+unconfined_u:object_r:default_t:s0 AppStream
+unconfined_u:object_r:default_t:s0 BaseOS
+unconfined_u:object_r:default_t:s0 .discinfo
+unconfined_u:object_r:default_t:s0 EFI
+unconfined_u:object_r:default_t:s0 EULA
+unconfined_u:object_r:default_t:s0 extra_files.json
+unconfined_u:object_r:default_t:s0 GPL
+unconfined_u:object_r:default_t:s0 images
+unconfined_u:object_r:default_t:s0 isolinux
+unconfined_u:object_r:default_t:s0 media.repo
+unconfined_u:object_r:default_t:s0 repodata
+unconfined_u:object_r:default_t:s0 RPM-GPG-KEY-redhat-beta
+unconfined_u:object_r:default_t:s0 RPM-GPG-KEY-redhat-release
+unconfined_u:object_r:default_t:s0 TRANS.TBL
+unconfined_u:object_r:default_t:s0 .treeinfo
+[root@localhost ~]# setfacl -R -m u:apache:rwx /local_repo/
+[root@localhost ~]# getenforce
+Enforcing
+[root@localhost ~]#
+[root@localhost ~]#
+[root@localhost ~]# chcon -Rt httpd_sys_content_t /local_repo/
+[root@localhost ~]# yum install vsftpd -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+Last metadata expiration check: 0:17:02 ago on Tue 08 Nov 2022 02:50:44 PM EST.
+Dependencies resolved.
+================================================================================
+ Package         Architecture    Version               Repository          Size
+================================================================================
+Installing:
+ vsftpd          x86_64          3.0.3-35.el8          AppStream          181 k
+
+Transaction Summary
+================================================================================
+Install  1 Package
+
+Total size: 181 k
+Installed size: 347 k
+Downloading Packages:
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : vsftpd-3.0.3-35.el8.x86_64                             1/1
+  Running scriptlet: vsftpd-3.0.3-35.el8.x86_64                             1/1
+  Verifying        : vsftpd-3.0.3-35.el8.x86_64                             1/1
+Installed products updated.
+
+Installed:
+  vsftpd-3.0.3-35.el8.x86_64
+
+Complete!
+[root@localhost ~]# ip a s
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group defaul                                                                             t qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host
+       valid_lft forever preferred_lft forever
+2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP gr                                                                             oup default qlen 1000
+    link/ether 08:00:27:2b:8e:42 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.32/24 brd 192.168.1.255 scope global dynamic noprefixroute en                                                                             p0s3
+       valid_lft 40285sec preferred_lft 40285sec
+    inet6 fe80::a00:27ff:fe2b:8e42/64 scope link noprefixroute
+       valid_lft forever preferred_lft forever
+3: virbr0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN                                                                              group default qlen 1000
+    link/ether 52:54:00:15:a6:25 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.122.1/24 brd 192.168.122.255 scope global virbr0
+       valid_lft forever preferred_lft forever
+[root@localhost ~]# vim /etc/httpd/conf/httpd.conf
+[root@localhost ~]# systemctl restart httpd.service
+[root@localhost ~]# cat  /etc/httpd/conf/httpd.conf
+#
+# This is the main Apache HTTP server configuration file.  It contains the
+# configuration directives that give the server its instructions.
+# See <URL:http://httpd.apache.org/docs/2.4/> for detailed information.
+# In particular, see
+# <URL:http://httpd.apache.org/docs/2.4/mod/directives.html>
+# for a discussion of each configuration directive.
+#
+# See the httpd.conf(5) man page for more information on this configuration,
+# and httpd.service(8) on using and configuring the httpd service.
+#
+# Do NOT simply read the instructions in here without understanding
+# what they do.  They're here only as hints or reminders.  If you are unsure
+# consult the online docs. You have been warned.
+#
+# Configuration and logfile names: If the filenames you specify for many
+# of the server's control files begin with "/" (or "drive:/" for Win32), the
+# server will use that explicit path.  If the filenames do *not* begin
+# with "/", the value of ServerRoot is prepended -- so 'log/access_log'
+# with ServerRoot set to '/www' will be interpreted by the
+# server as '/www/log/access_log', where as '/log/access_log' will be
+# interpreted as '/log/access_log'.
+
+#
+# ServerRoot: The top of the directory tree under which the server's
+# configuration, error, and log files are kept.
+#
+# Do not add a slash at the end of the directory path.  If you point
+# ServerRoot at a non-local disk, be sure to specify a local disk on the
+# Mutex directive, if file-based mutexes are used.  If you wish to share the
+# same ServerRoot for multiple httpd daemons, you will need to change at
+# least PidFile.
+#
+ServerRoot "/etc/httpd"
+
+#
+# Listen: Allows you to bind Apache to specific IP addresses and/or
+# ports, instead of the default. See also the <VirtualHost>
+# directive.
+#
+# Change this to Listen on specific IP addresses as shown below to
+# prevent Apache from glomming onto all bound IP addresses.
+#
+#Listen 12.34.56.78:80
+Listen 80
+
+#
+# Dynamic Shared Object (DSO) Support
+#
+# To be able to use the functionality of a module which was built as a DSO you
+# have to place corresponding `LoadModule' lines at this location so the
+# directives contained in it are actually available _before_ they are used.
+# Statically compiled modules (those listed by `httpd -l') do not need
+# to be loaded here.
+#
+# Example:
+# LoadModule foo_module modules/mod_foo.so
+#
+Include conf.modules.d/*.conf
+
+#
+# If you wish httpd to run as a different user or group, you must run
+# httpd as root initially and it will switch.
+#
+# User/Group: The name (or #number) of the user/group to run httpd as.
+# It is usually good practice to create a dedicated user and group for
+# running httpd, as with most system services.
+#
+User apache
+Group apache
+
+# 'Main' server configuration
+#
+# The directives in this section set up the values used by the 'main'
+# server, which responds to any requests that aren't handled by a
+# <VirtualHost> definition.  These values also provide defaults for
+# any <VirtualHost> containers you may define later in the file.
+#
+# All of these directives may appear inside <VirtualHost> containers,
+# in which case these default settings will be overridden for the
+# virtual host being defined.
+#
+
+#
+# ServerAdmin: Your address, where problems with the server should be
+# e-mailed.  This address appears on some server-generated pages, such
+# as error documents.  e.g. admin@your-domain.com
+#
+ServerAdmin root@localhost
+
+#
+# ServerName gives the name and port that the server uses to identify itself.
+# This can often be determined automatically, but we recommend you specify
+# it explicitly to prevent problems during startup.
+#
+# If your host doesn't have a registered DNS name, enter its IP address here.
+#
+#ServerName www.example.com:80
+
+#
+# Deny access to the entirety of your server's filesystem. You must
+# explicitly permit access to web content directories in other
+# <Directory> blocks below.
+#
+<Directory />
+    AllowOverride none
+    Require all denied
+</Directory>
+
+#
+# Note that from this point forward you must specifically allow
+# particular features to be enabled - so if something's not working as
+# you might expect, make sure that you have specifically enabled it
+# below.
+#
+
+#
+# DocumentRoot: The directory out of which you will serve your
+# documents. By default, all requests are taken from this directory, but
+# symbolic links and aliases may be used to point to other locations.
+#
+DocumentRoot "/local_repo/"
+
+#
+# Relax access to content within /var/www.
+#
+<Directory "/local_repo/">
+    Options All Indexes FollowSymLinks
+    AllowOverride None
+    # Allow open access:
+    Require all granted
+</Directory>
+
+# Further relax access to the default document root:
+<Directory "/var/www/html">
+    #
+    # Possible values for the Options directive are "None", "All",
+    # or any combination of:
+    #   Indexes Includes FollowSymLinks SymLinksifOwnerMatch ExecCGI MultiViews
+    #
+    # Note that "MultiViews" must be named *explicitly* --- "Options All"
+    # doesn't give it to you.
+    #
+    # The Options directive is both complicated and important.  Please see
+    # http://httpd.apache.org/docs/2.4/mod/core.html#options
+    # for more information.
+    #
+    Options Indexes FollowSymLinks
+
+    #
+    # AllowOverride controls what directives may be placed in .htaccess files.
+    # It can be "All", "None", or any combination of the keywords:
+    #   Options FileInfo AuthConfig Limit
+    #
+    AllowOverride None
+
+    #
+    # Controls who can get stuff from this server.
+    #
+    Require all granted
+</Directory>
+
+#
+# DirectoryIndex: sets the file that Apache will serve if a directory
+# is requested.
+#
+<IfModule dir_module>
+    DirectoryIndex index.html
+</IfModule>
+
+#
+# The following lines prevent .htaccess and .htpasswd files from being
+# viewed by Web clients.
+#
+<Files ".ht*">
+    Require all denied
+</Files>
+
+#
+# ErrorLog: The location of the error log file.
+# If you do not specify an ErrorLog directive within a <VirtualHost>
+# container, error messages relating to that virtual host will be
+# logged here.  If you *do* define an error logfile for a <VirtualHost>
+# container, that host's errors will be logged there and not here.
+#
+ErrorLog "logs/error_log"
+
+#
+# LogLevel: Control the number of messages logged to the error_log.
+# Possible values include: debug, info, notice, warn, error, crit,
+# alert, emerg.
+#
+LogLevel warn
+
+<IfModule log_config_module>
+    #
+    # The following directives define some format nicknames for use with
+    # a CustomLog directive (see below).
+    #
+    LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\"" combined
+    LogFormat "%h %l %u %t \"%r\" %>s %b" common
+
+    <IfModule logio_module>
+      # You need to enable mod_logio.c to use %I and %O
+      LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\" %I %O" combinedio
+    </IfModule>
+
+    #
+    # The location and format of the access logfile (Common Logfile Format).
+    # If you do not define any access logfiles within a <VirtualHost>
+    # container, they will be logged here.  Contrariwise, if you *do*
+    # define per-<VirtualHost> access logfiles, transactions will be
+    # logged therein and *not* in this file.
+    #
+    #CustomLog "logs/access_log" common
+
+    #
+    # If you prefer a logfile with access, agent, and referer information
+    # (Combined Logfile Format) you can use the following directive.
+    #
+    CustomLog "logs/access_log" combined
+</IfModule>
+
+<IfModule alias_module>
+    #
+    # Redirect: Allows you to tell clients about documents that used to
+    # exist in your server's namespace, but do not anymore. The client
+    # will make a new request for the document at its new location.
+    # Example:
+    # Redirect permanent /foo http://www.example.com/bar
+
+    #
+    # Alias: Maps web paths into filesystem paths and is used to
+    # access content that does not live under the DocumentRoot.
+    # Example:
+    # Alias /webpath /full/filesystem/path
+    #
+    # If you include a trailing / on /webpath then the server will
+    # require it to be present in the URL.  You will also likely
+    # need to provide a <Directory> section to allow access to
+    # the filesystem path.
+
+    #
+    # ScriptAlias: This controls which directories contain server scripts.
+    # ScriptAliases are essentially the same as Aliases, except that
+    # documents in the target directory are treated as applications and
+    # run by the server when requested rather than as documents sent to the
+    # client.  The same rules about trailing "/" apply to ScriptAlias
+    # directives as to Alias.
+    #
+    ScriptAlias /cgi-bin/ "/var/www/cgi-bin/"
+
+</IfModule>
+
+#
+# "/var/www/cgi-bin" should be changed to whatever your ScriptAliased
+# CGI directory exists, if you have that configured.
+#
+<Directory "/var/www/cgi-bin">
+    AllowOverride None
+    Options None
+    Require all granted
+</Directory>
+
+<IfModule mime_module>
+    #
+    # TypesConfig points to the file containing the list of mappings from
+    # filename extension to MIME-type.
+    #
+    TypesConfig /etc/mime.types
+
+    #
+    # AddType allows you to add to or override the MIME configuration
+    # file specified in TypesConfig for specific file types.
+    #
+    #AddType application/x-gzip .tgz
+    #
+    # AddEncoding allows you to have certain browsers uncompress
+    # information on the fly. Note: Not all browsers support this.
+    #
+    #AddEncoding x-compress .Z
+    #AddEncoding x-gzip .gz .tgz
+    #
+    # If the AddEncoding directives above are commented-out, then you
+    # probably should define those extensions to indicate media types:
+    #
+    AddType application/x-compress .Z
+    AddType application/x-gzip .gz .tgz
+
+    #
+    # AddHandler allows you to map certain file extensions to "handlers":
+    # actions unrelated to filetype. These can be either built into the server
+    # or added with the Action directive (see below)
+    #
+    # To use CGI scripts outside of ScriptAliased directories:
+    # (You will also need to add "ExecCGI" to the "Options" directive.)
+    #
+    #AddHandler cgi-script .cgi
+
+    # For type maps (negotiated resources):
+    #AddHandler type-map var
+
+    #
+    # Filters allow you to process content before it is sent to the client.
+    #
+    # To parse .shtml files for server-side includes (SSI):
+    # (You will also need to add "Includes" to the "Options" directive.)
+    #
+    AddType text/html .shtml
+    AddOutputFilter INCLUDES .shtml
+</IfModule>
+
+#
+# Specify a default charset for all content served; this enables
+# interpretation of all content as UTF-8 by default.  To use the
+# default browser choice (ISO-8859-1), or to allow the META tags
+# in HTML content to override this choice, comment out this
+# directive:
+#
+AddDefaultCharset UTF-8
+
+<IfModule mime_magic_module>
+    #
+    # The mod_mime_magic module allows the server to use various hints from the
+    # contents of the file itself to determine its type.  The MIMEMagicFile
+    # directive tells the module where the hint definitions are located.
+    #
+    MIMEMagicFile conf/magic
+</IfModule>
+
+#
+# Customizable error responses come in three flavors:
+# 1) plain text 2) local redirects 3) external redirects
+#
+# Some examples:
+#ErrorDocument 500 "The server made a boo boo."
+#ErrorDocument 404 /missing.html
+#ErrorDocument 404 "/cgi-bin/missing_handler.pl"
+#ErrorDocument 402 http://www.example.com/subscription_info.html
+#
+
+#
+# EnableMMAP and EnableSendfile: On systems that support it,
+# memory-mapping or the sendfile syscall may be used to deliver
+# files.  This usually improves server performance, but must
+# be turned off when serving from networked-mounted
+# filesystems or if support for these functions is otherwise
+# broken on your system.
+# Defaults if commented: EnableMMAP On, EnableSendfile Off
+#
+#EnableMMAP off
+EnableSendfile on
+
+# Supplemental configuration
+#
+# Load config files in the "/etc/httpd/conf.d" directory, if any.
+IncludeOptional conf.d/*.conf
+[root@localhost ~]# cat /etc/yum.repos.d/local-dvd.repo
+[AppStream]
+name=AppStream
+baseurl=file:///local_repo/AppStream/
+gpgcheck=0
+enabled=1
+
+[BaseOS]
+name=BaseOS
+baseurl=file:///local_repo/BaseOS/
+gpgcheck=0
+enabled=1
+[root@localhost ~]#
+
+
+
+
+
+
+----------------------------------------------------client side ------------------------------------------
+login as: root
+root@192.168.1.20's password:
+Activate the web console with: systemctl enable --now cockpit.socket
+
+Register this system with Red Hat Insights: insights-client --register
+Create an account or view all your systems at https://red.ht/insights-dashboard
+Last login: Tue Nov  8 15:14:55 2022
+[root@servera ~]# lsblk
+NAME          MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda             8:0    0   20G  0 disk
+├─sda1          8:1    0    1G  0 part /boot
+└─sda2          8:2    0   19G  0 part
+  ├─rhel-root 253:0    0   17G  0 lvm  /
+  └─rhel-swap 253:1    0    2G  0 lvm
+sr0            11:0    1 10.7G  0 rom  /run/media/root/RHEL-8-6-0-BaseOS-x86_64
+[root@servera ~]# df -hT
+Filesystem            Type      Size  Used Avail Use% Mounted on
+devtmpfs              devtmpfs  877M     0  877M   0% /dev
+tmpfs                 tmpfs     907M     0  907M   0% /dev/shm
+tmpfs                 tmpfs     907M  9.3M  898M   2% /run
+tmpfs                 tmpfs     907M     0  907M   0% /sys/fs/cgroup
+/dev/mapper/rhel-root xfs        17G  6.2G   11G  37% /
+/dev/sda1             xfs      1014M  254M  761M  26% /boot
+tmpfs                 tmpfs     182M   28K  182M   1% /run/user/0
+/dev/sr0              iso9660    11G   11G     0 100% /run/media/root/RHEL-8-6-0                                                                             -BaseOS-x86_64
+[root@servera ~]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                                repo name
+App                                    AppStream
+BaseOS                                 BaseOS
+[root@servera ~]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                        repo name                                status
+App                            AppStream                                enabled
+BaseOS                         BaseOS                                   enabled
+docker-ce-nightly              Docker CE Nightly - x86_64               disabled
+docker-ce-nightly-debuginfo    Docker CE Nightly - Debuginfo x86_64     disabled
+docker-ce-nightly-source       Docker CE Nightly - Sources              disabled
+docker-ce-stable               Docker CE Stable - x86_64                disabled
+docker-ce-stable-debuginfo     Docker CE Stable - Debuginfo x86_64      disabled
+docker-ce-stable-source        Docker CE Stable - Sources               disabled
+docker-ce-test                 Docker CE Test - x86_64                  disabled
+docker-ce-test-debuginfo       Docker CE Test - Debuginfo x86_64        disabled
+docker-ce-test-source          Docker CE Test - Sources                 disabled
+[root@servera ~]# vim /etc/yum.repos.d/rhel.repo
+[root@servera ~]# yum install httpd -y
+Updating Subscription Management repositories. mirrors were tried
+[root@servera ~]# vim /etc/yum.repos.d/rhel.repo
+[root@servera ~]# cat /etc/yum.repos.d/rhel.repo
+[App]
+name=AppStream
+baseurl=http://192.168.1.32
+gpgcheck=0
+enabled=1
+[BaseOS]
+name=BaseOS
+baseurl=http://192.168.1.32
+gpgcheck=0
+enabled=1
+
+[root@servera ~]# yum repolist
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                                repo name
+App                                    AppStream
+BaseOS                                 BaseOS
+[root@servera ~]# yum repolist all
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+repo id                        repo name                                status
+App                            AppStream                                enabled
+BaseOS                         BaseOS                                   enabled
+docker-ce-nightly              Docker CE Nightly - x86_64               disabled
+docker-ce-nightly-debuginfo    Docker CE Nightly - Debuginfo x86_64     disabled
+docker-ce-nightly-source       Docker CE Nightly - Sources              disabled
+docker-ce-stable               Docker CE Stable - x86_64                disabled
+docker-ce-stable-debuginfo     Docker CE Stable - Debuginfo x86_64      disabled
+docker-ce-stable-source        Docker CE Stable - Sources               disabled
+docker-ce-test                 Docker CE Test - x86_64                  disabled
+docker-ce-test-debuginfo       Docker CE Test - Debuginfo x86_64        disabled
+docker-ce-test-source          Docker CE Test - Sources                 disabled
+[root@servera ~]# yum install httpd -y
+Updating Subscription Management repositories.
+Unable to read consumer identity
+
+This system is not registered with an entitlement server. You can use subscripti                                                                             on-manager to register.
+
+AppStream                                        30 MB/s | 9.6 MB     00:00
+BaseOS                                           55 MB/s | 9.6 MB     00:00
+Last metadata expiration check: 0:00:04 ago on Tue 08 Nov 2022 03:25:56 PM EST.
+Dependencies resolved.
+================================================================================
+ Package            Arch   Version                                    Repo
+                                                                           Size
+================================================================================
+Installing:
+ httpd              x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1  App 1.4 M
+Installing dependencies:
+ apr                x86_64 1.6.3-12.el8                               App 130 k
+ apr-util           x86_64 1.6.1-6.el8                                App 105 k
+ httpd-filesystem   noarch 2.4.37-47.module+el8.6.0+14529+083145da.1  App  41 k
+ httpd-tools        x86_64 2.4.37-47.module+el8.6.0+14529+083145da.1  App 108 k
+ mod_http2          x86_64 1.15.7-5.module+el8.6.0+13996+01710940     App 155 k
+ redhat-logos-httpd noarch 84.5-1.el8                                 App  29 k
+Installing weak dependencies:
+ apr-util-bdb       x86_64 1.6.1-6.el8                                App  25 k
+ apr-util-openssl   x86_64 1.6.1-6.el8                                App  27 k
+Enabling module streams:
+ httpd                     2.4
+
+Transaction Summary
+================================================================================
+Install  9 Packages
+
+Total download size: 2.0 M
+Installed size: 5.4 M
+Downloading Packages:
+(1/9): apr-util-bdb-1.6.1-6.el8.x86_64.rpm      4.2 MB/s |  25 kB     00:00
+(2/9): apr-util-1.6.1-6.el8.x86_64.rpm          9.1 MB/s | 105 kB     00:00
+(3/9): apr-util-openssl-1.6.1-6.el8.x86_64.rpm  3.8 MB/s |  27 kB     00:00
+(4/9): apr-1.6.3-12.el8.x86_64.rpm              6.6 MB/s | 130 kB     00:00
+(5/9): httpd-filesystem-2.4.37-47.module+el8.6. 4.7 MB/s |  41 kB     00:00
+(6/9): httpd-tools-2.4.37-47.module+el8.6.0+145 9.5 MB/s | 108 kB     00:00
+(7/9): redhat-logos-httpd-84.5-1.el8.noarch.rpm 7.1 MB/s |  29 kB     00:00
+(8/9): mod_http2-1.15.7-5.module+el8.6.0+13996+  10 MB/s | 155 kB     00:00
+(9/9): httpd-2.4.37-47.module+el8.6.0+14529+083  27 MB/s | 1.4 MB     00:00
+--------------------------------------------------------------------------------
+Total                                            29 MB/s | 2.0 MB     00:00
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1
+  Installing       : apr-1.6.3-12.el8.x86_64                                1/9
+  Running scriptlet: apr-1.6.3-12.el8.x86_64                                1/9
+  Installing       : apr-util-bdb-1.6.1-6.el8.x86_64                        2/9
+  Installing       : apr-util-openssl-1.6.1-6.el8.x86_64                    3/9
+  Installing       : apr-util-1.6.1-6.el8.x86_64                            4/9
+  Running scriptlet: apr-util-1.6.1-6.el8.x86_64                            4/9
+  Installing       : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   5/9
+  Installing       : redhat-logos-httpd-84.5-1.el8.noarch                   6/9
+  Running scriptlet: httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   7/9
+  Installing       : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Installing       : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Running scriptlet: httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   9/9
+  Verifying        : apr-1.6.3-12.el8.x86_64                                1/9
+  Verifying        : apr-util-1.6.1-6.el8.x86_64                            2/9
+  Verifying        : apr-util-bdb-1.6.1-6.el8.x86_64                        3/9
+  Verifying        : apr-util-openssl-1.6.1-6.el8.x86_64                    4/9
+  Verifying        : httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_   5/9
+  Verifying        : httpd-filesystem-2.4.37-47.module+el8.6.0+14529+0831   6/9
+  Verifying        : httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.   7/9
+  Verifying        : mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86   8/9
+  Verifying        : redhat-logos-httpd-84.5-1.el8.noarch                   9/9
+Installed products updated.
+
+Installed:
+  apr-1.6.3-12.el8.x86_64
+  apr-util-1.6.1-6.el8.x86_64
+  apr-util-bdb-1.6.1-6.el8.x86_64
+  apr-util-openssl-1.6.1-6.el8.x86_64
+  httpd-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  httpd-filesystem-2.4.37-47.module+el8.6.0+14529+083145da.1.noarch
+  httpd-tools-2.4.37-47.module+el8.6.0+14529+083145da.1.x86_64
+  mod_http2-1.15.7-5.module+el8.6.0+13996+01710940.x86_64
+  redhat-logos-httpd-84.5-1.el8.noarch
+
+Complete!
+[root@servera ~]#
